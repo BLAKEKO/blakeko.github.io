@@ -4,7 +4,7 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "클래식 메이트"
   #  url: https://classic-mate.github.io/
-  - title: "about"
+  - title: "ABOUT"
     url: /about/
-  - title: "projects"
+  - title: "PROJECTS"
     url: /projects/

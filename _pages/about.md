@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about/
-title: "about"
+title: "ABOUT"
 author_profile: true
 ---
 
