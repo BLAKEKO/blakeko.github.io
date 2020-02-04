@@ -20,10 +20,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "고병휘"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : "고병휘"
+name                     : "Blake Ko 고병휘"
 description              : "An amazing website."
 url                      : "https://blakeko.github.io"
 baseurl                  : ""
