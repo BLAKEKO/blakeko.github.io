@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /home/
-title: "HOME"
+title: "ABOUT"
 author_profile: true
 ---
 
