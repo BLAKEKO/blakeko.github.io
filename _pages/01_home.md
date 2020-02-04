@@ -1,9 +1,11 @@
 ---
 layout: archive
-permalink: /projects/
-title: "PROJECTS"
+permalink: /home/
+title: "HOME"
 author_profile: true
 ---
+
+
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for year in postsByYear %}

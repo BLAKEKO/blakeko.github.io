@@ -1,11 +1,9 @@
 ---
 layout: archive
-permalink: /home/
-title: "HOME"
+permalink: /projects/
+title: "PROJECTS"
 author_profile: true
 ---
-
-
 
 {% include group-by-array collection=site.posts field="categories" %}
 {% for category in group_names %}
