@@ -15,14 +15,6 @@ author_profile: true
 
 구글홈 루틴 설정을 이용하시면 정해진 시간에 클래식 메이트가 찾아와요!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-g97MQl6RXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-1. 루틴 클릭
-2. 루틴 관리 클릭
-3. 루틴 추가 클릭
-4. 원하는 명령어 및 날짜 설정, 적용할 스피커 선택
-5. 작업 추가 클릭하고 "클래식 메이트한테 말하기" 입력
-6. 저장!
 
 ---
 
@@ -35,37 +27,6 @@ author_profile: true
 
 * 2019년 10월 15일<br>
 [제 16회 차이콥스키 콩쿠르 우승자 갈라콘서트](http://www.clubbalcony.com/home/library/leaflet_list.aspx?Mode=r&mid=8&pid=&bid=38926&Se=TITLE&Sestr=&page=1)
-
-* 2019년 10월 25일<br>
-[미샤 마이스키 ＆ 무직콜레기움 빈터투어](http://www.clubbalcony.com/Home/classic/ticket_detail.aspx?Id=27891&perfmode=inter)
-
-**11월**
-
-* 2019년 11월 13-17일<br>
-[장한나 & 트론헤임 심포니 오케스트라 (협연: 임동혁)](http://www.clubbalcony.com/home/library/leaflet_list.aspx?Mode=r&mid=8&pid=&bid=38904&Se=TITLE&Sestr=&page=1)
-
-* 2019년 11월 29일<br>
-[안네-소피 무터 리사이틀](http://www.clubbalcony.com/Home/classic/ticket_detail.aspx?id=27968&perfmode=inter&y=2019&m=11&s=0)
-
-**12월**
-
-* 2019년 12월 01일<br>
-[지용 The Age of Maturity](http://www.clubbalcony.com/home/library/leaflet_list.aspx?Mode=r&mid=8&pid=&bid=38901&Se=TITLE&Sestr=&page=1)
-
-* 2019년 12월 08일<br>
-[백혜선 세계 무대 데뷔 30주년 기념 리사이틀](http://www.clubbalcony.com/Home/classic/ticket_detail.aspx?id=28683&perfmode=inter&y=2019&m=12&s=0)
-
-* 2019년 12월 22일<br>
-[크리스마스 콘서트 [유키 구라모토와 친구들]](http://www.clubbalcony.com/Home/classic/ticket_detail.aspx?id=28882&perfmode=inter&y=2019&m=12&s=0)
-
-* 2019년 12월 25일<br>
-[금난새의 크리스마스 선물](http://www.clubbalcony.com/Home/classic/ticket_detail.aspx?id=28893&perfmode=inter&y=2019&m=12&s=0)
-
-* 2019년 12월 25일<br>
-[리처드 용재 오닐 [선물]](http://www.clubbalcony.com/home/library/leaflet_list.aspx?Mode=r&mid=8&pid=&bid=38924&Se=TITLE&Sestr=&page=1)
-
-* 2019년 12월 29일<br>
-[사라 장 바이올린 리사이틀](http://www.clubbalcony.com/home/library/leaflet_list.aspx?Mode=r&mid=8&pid=&bid=38897&Se=TITLE&Sestr=&page=1)
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for year in postsByYear %}
