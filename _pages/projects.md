@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /about/
-title: "120% 활용하기"
+permalink: /projects/
+title: "projects"
 author_profile: true
 ---
 
