@@ -65,7 +65,7 @@ a {
 /*-- GENERAL STYLES
     ------------------------------*/
 .timeline {
-  line-height: 1.4em;
+  line-height: 1.2em;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -75,7 +75,7 @@ a {
 
 /*----- TIMELINE ITEM -----*/
 .timeline-item {
-  padding-left: 40px;
+  padding-left: 30px;
   position: relative; }
   .timeline-item:last-child {
     padding-bottom: 0; }
@@ -102,11 +102,11 @@ a {
     border-radius: 100%;
     content: "";
     display: block;
-    height: 15px;
+    height: 10px;
     position: absolute;
     top: 4px;
     left: 0;
-    width: 15px;
+    width: 10px;
     transition: background 0.3s ease-in-out, border 0.3s ease-in-out; }
   .timeline-marker:after {
     content: "";
