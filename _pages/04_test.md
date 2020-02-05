@@ -65,7 +65,7 @@ a {
 /*-- GENERAL STYLES
     ------------------------------*/
 .timeline {
-  line-height: 1.2em;
+  line-height: 1.5em;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -257,13 +257,13 @@ a {
 <script src="https://use.typekit.net/bkt6ydm.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <header class="example-header">
-    <h1 class="text-center">Simple Responsive Timeline</h1>
+    <h1 class="text-center">About Me</h1>
     <p>Handcrafted by <a href="http://overflowdg.com" target="_blank">Overflow</a></p>
 </header>
 <div class="container-fluid">
     <div class="row example-basic">
         <div class="col-md-12 example-title">
-            <h2>Basic Timeline</h2>
+            <h2>Bio</h2>
             <p>Extra small devices (phones, less than 768px)</p>
         </div>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
