@@ -8,6 +8,27 @@ author_profile: true
 I am studying for a Master's degree in the Graduate School of Convergence Science and Technology [(GSCST)](http://convergence.snu.ac.kr/main/) from Seoul National University [(SNU)](http://snu.ac.kr/index.html), studying under Joongseek Lee.
 
 ---
+
+<h1>Bio</h1>
+	
+March 2019 &ndash; July 2019 <br>
+Graduate Research Assistant @ <a href="http://ux.snu.ac.kr/" target="_blank">User eXperience Lab at Seoul National University
+June 2016 &ndash; September 2016 <br>
+Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Hall Information and Communication Security Officer Information Protection Team</a>
+
+---
+
+<h1>Education</h1>
+2018 &ndash; <br>
+<a href="http://www.snu.ac.kr/">  Seoul National University</a>
+2012 &ndash; 2018<br> 
+<a href="http://www.hanyang.ac.kr/">Hanyang University</a>
+2016 &ndash; 2017<br> 
+<a href="https://h-da.com/">Darmstadt University of Applied Sciences</a>
+2007 &ndash; 2010<br> 
+<a href="http://djflhs.djsch.kr/main.do">Daejeon Foreign Language High School</a>
+	
+---
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -184,39 +205,6 @@ body {
 	    }
 	    });
 	</script>
-	</div>
-	<div class="row">
-    <h1><span data-i18n="skills.my_skills">Bio</span></h1>
-	<div class="archive">
-		<div class="timeline" id="timeline">
-			<div class="archive-title">
-				<div class="archive-year"><strong style="margin-right: 2px;">March 2019 &ndash; July 2019<i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i></strong> Graduate Research Assistant @ <a href="http://ux.snu.ac.kr/" target="_blank">User eXperience Lab at Seoul National University</a></div>
-			</div>
-			<div class="archive-title">
-				<div class="archive-year"><strong style="margin-right: 2px;">June 2016 &ndash; September 2016</strong> Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Hall Information and Communication Security Officer Information Protection Team</a></div>
-			</div>
-		</div>
-	</div>
-	</div>
-	<div class="row">
-	<div class="navy-line"></div>
-	<h1><span data-i18n="skills.my_skills">Education</span></h1>
-		<div class="archive">
-			<div class="timeline" id="timeline">
-				<div class="archive-title bio">
-					<div class="archive-year"><strong style="margin-right: 2px;">2018 &ndash; <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i></strong> <a href="http://www.snu.ac.kr/">  Seoul National University</a></div>
-				</div>
-				<div class="archive-title bio">
-					<div class="archive-year"><strong style="margin-right: 2px;">2012 &ndash; 2018</strong> <a href="http://www.hanyang.ac.kr/">Hanyang University</a></div>
-				</div>
-				<div class="archive-title bio">
-					<div class="archive-year"><strong style="margin-right: 2px;">2016 &ndash; 2017</strong> <a href="https://h-da.com/">Darmstadt University of Applied Sciences</a></div>
-				</div>
-				<div class="archive-title bio">
-					<div class="archive-year"><strong style="margin-right: 2px;">2007 &ndash; 2010</strong> <a href="http://djflhs.djsch.kr/main.do">Daejeon Foreign Language High School</a></div>
-				</div>
-			</div>
-		</div>
 	</div>
 </div>
 <div class="timeline">
