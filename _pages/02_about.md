@@ -269,7 +269,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
             <ul class="timeline">
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March, 2018 ~</span>
+                        <span>March 2018 ~</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -279,7 +279,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>August, 2016 ~ Februrary, 2017</span>
+                        <span>August 2016 ~ Februrary 2017</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -289,7 +289,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March, 2012 ~ Februrary, 2018</span>
+                        <span>March 2012 ~ Februrary 2018</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -299,7 +299,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March, 2007 ~ Februrary, 2010</span>
+                        <span>March 2007 ~ Februrary 2010</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -311,61 +311,38 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
         </div>
     </div>
     <div class="row example-split">
-        <div class="col-md-12 example-title">
-            <h2>Split Timeline</h2>
-            <p>Small devices (tablets, 768px and up)</p>
-        </div>
+            <h1>WORK EXPERIENCE</h1>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
             <ul class="timeline timeline-split">
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March 12, 2016</span>
+                        <span>March 2019 ~ July 2019</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
-                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
-                            eu pede mollis pretium. Pellentesque ut neque.</p>
+                        <h3 class="timeline-title">Graduate Research Assistant</h3>
+                        <p>서울대학교 자유전공학부 수업 조교</p>
                     </div>
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March 23, 2016</span>
+                        <span>June 2016 ~ September 2016</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
-                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
-                            eu pede mollis pretium. Pellentesque ut neque. </p>
-                    </div>
-                </li>
-                <li class="timeline-item period">
-                    <div class="timeline-info"></div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h2 class="timeline-title">April 2016</h2>
+                        <h3 class="timeline-title">Internship</h3>
+                        <p>스마트도시정책관 정보통신보안담당관 정보보안팀
+                        	<br>Seoul City Hall Information and Communication Security Officer Information Protection Team</p>
                     </div>
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>April 02, 2016</span>
+                        <span>April 2016</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Event Title</h3>
-                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
-                            eu pede mollis pretium. Pellentesque ut neque. </p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>April 28, 2016</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
-                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
-                            eu pede mollis pretium. Pellentesque ut neque. </p>
+                        <p>...</p>
                     </div>
                 </li>
             </ul>
