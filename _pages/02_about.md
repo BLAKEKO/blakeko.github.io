@@ -310,7 +310,7 @@ a {
                 background: $primary-color;
             }
         }
-
+</head>
 <body>
 <script src="https://use.typekit.net/bkt6ydm.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
@@ -505,7 +505,6 @@ a {
 </div>
 </body>
 </style>
-</head>
 </html>
 <h1>Bio</h1>
 	
