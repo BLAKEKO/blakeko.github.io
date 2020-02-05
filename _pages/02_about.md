@@ -33,7 +33,7 @@ body {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: black;
+  background-color: #70cc73;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -56,7 +56,7 @@ body {
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid #0d703c;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
