@@ -200,7 +200,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 				<div class="archive-year"><strong style="margin-right: 2px;">March 2019 &ndash; July 2019<i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i></strong> Graduate Research Assistant @ <a href="http://ux.snu.ac.kr/" target="_blank">User eXperience Lab at Seoul National University</a></div>
 			</div>
 			<div class="archive-title">
-				<div class="archive-year"><strong style="margin-right: 2px;">July 2016 &ndash; August 2016</strong> Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Hall Information and Communication Security Officer Information Protection Team</a></div>
+				<div class="archive-year"><strong style="margin-right: 2px;">June 2016 &ndash; September 2016</strong> Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Hall Information and Communication Security Officer Information Protection Team</a></div>
 			</div>
 		</div>
 	</div>
