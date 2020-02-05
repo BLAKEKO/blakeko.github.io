@@ -606,8 +606,8 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Internship</h3>
-                        <p>스마트도시정책관 정보통신보안담당관 정보보안팀
-                        	<br>Seoul City Hall Information and Communication Security Officer Information Protection Team</p>
+                        <p>서울시청 정보통신보안담당관 정보보안팀
+                        	<br>Seoul City Hall Information Protection Team</p>
                     </div>
                 </li>
             </ul>
@@ -617,6 +617,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 </body>
 </html>
 
+---
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
