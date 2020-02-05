@@ -54,9 +54,6 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 			<div class="archive-title">
 				<div class="archive-year"><strong style="margin-right: 2px;">May 2012 &ndash; Feb. 2015</strong> Junior Developer @ <a href="http://www.redwood-inc.com/" target="_blank">Redwood Interactive</a></div>
 			</div>
-			<div class="archive-title">
-				<div class="archive-year"><strong style="margin-right: 2px;">Sep. 2011 &ndash; Feb. 2015</strong> Graduate Research Assistant @ <a href="https://sites.google.com/site/cvgyonsei/members" target="_blank">Computer Vision & Graphics Lab at Yonsei University</a></div>
-			</div>
 		</div>
 	</div>
 </div>
