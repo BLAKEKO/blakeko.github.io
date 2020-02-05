@@ -149,8 +149,7 @@ body {
 
 </head>
 <body>
-
-<div class="timeline">
+<div>
 	<div class="row">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
 	<h1><span data-i18n="skills.my_skills">Skills</span></h1>
@@ -185,8 +184,8 @@ body {
 	    }
 	    });
 	</script>
-</div>
-<div class="row">
+	</div>
+	<div class="row">
     <h1><span data-i18n="skills.my_skills">Bio</span></h1>
 	<div class="archive">
 		<div class="timeline" id="timeline">
@@ -198,27 +197,29 @@ body {
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row">
-<div class="navy-line"></div>
-<h1><span data-i18n="skills.my_skills">Education</span></h1>
-	<div class="archive">
-		<div class="timeline" id="timeline">
-			<div class="archive-title bio">
-				<div class="archive-year"><strong style="margin-right: 2px;">2018 &ndash; <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i></strong> <a href="http://www.snu.ac.kr/">  Seoul National University</a></div>
-			</div>
-			<div class="archive-title bio">
-				<div class="archive-year"><strong style="margin-right: 2px;">2012 &ndash; 2018</strong> <a href="http://www.hanyang.ac.kr/">Hanyang University</a></div>
-			</div>
-			<div class="archive-title bio">
-				<div class="archive-year"><strong style="margin-right: 2px;">2016 &ndash; 2017</strong> <a href="https://h-da.com/">Darmstadt University of Applied Sciences</a></div>
-			</div>
-			<div class="archive-title bio">
-				<div class="archive-year"><strong style="margin-right: 2px;">2007 &ndash; 2010</strong> <a href="http://djflhs.djsch.kr/main.do">Daejeon Foreign Language High School</a></div>
+	</div>
+	<div class="row">
+	<div class="navy-line"></div>
+	<h1><span data-i18n="skills.my_skills">Education</span></h1>
+		<div class="archive">
+			<div class="timeline" id="timeline">
+				<div class="archive-title bio">
+					<div class="archive-year"><strong style="margin-right: 2px;">2018 &ndash; <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i></strong> <a href="http://www.snu.ac.kr/">  Seoul National University</a></div>
+				</div>
+				<div class="archive-title bio">
+					<div class="archive-year"><strong style="margin-right: 2px;">2012 &ndash; 2018</strong> <a href="http://www.hanyang.ac.kr/">Hanyang University</a></div>
+				</div>
+				<div class="archive-title bio">
+					<div class="archive-year"><strong style="margin-right: 2px;">2016 &ndash; 2017</strong> <a href="https://h-da.com/">Darmstadt University of Applied Sciences</a></div>
+				</div>
+				<div class="archive-title bio">
+					<div class="archive-year"><strong style="margin-right: 2px;">2007 &ndash; 2010</strong> <a href="http://djflhs.djsch.kr/main.do">Daejeon Foreign Language High School</a></div>
+				</div>
 			</div>
 		</div>
 	</div>
 </div>
+<div class="timeline">
   <div class="container left">
     <div class="content">
       <h2>2017</h2>
