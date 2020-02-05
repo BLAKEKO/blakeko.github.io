@@ -3,8 +3,47 @@ layout: archive
 ---
 
 {{ content }}
+<div class="col">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+<div class="row">
+<h1><span data-i18n="skills.my_skills">SKILLS</span></h1>
+<canvas id="cs" height="100" width="100"></canvas>    
+<script>
+    var ctx = document.getElementById("cs");
+    var data = {
+    labels: "Collaboration, Data Analysis, Python, HTML/CSS, Communication, PM".split(","),
+    datasets: [{
+        label: "Ability",
+        backgroundColor: "rgba(179,181,198,0.2)",
+        borderColor: "#FF6B6B",
+        pointBackgroundColor: "#FF6B6B",
+        pointBorderColor: "#fff",
+        pointHoverBackgroundColor: "#FF6B6B",
+        pointHoverBorderColor: "#FF6B6B",
+        data: [95, 80, 70, 85, 85, 80]
+        }]
+    };
+    var myRadarChart = new Chart(ctx, {
+    type: 'radar',
+    data: data,
+    options: {
+
+        scale: {
+            responsive: true,
+            ticks: {min: 0, max: 100},
+            lineArc: false,
+            pointLabels: {fontSize: 15},
+        },
+        scaleFontSize: 0,
+        legend: {display: false},
+    }
+    });
+</script>
+</div>
+</div>
 <div class="type-info">
-    <h1><span>Campaigner 재기발랄한 활동가 (ENFP) </span> </h1> 
+	<h1>PERSONALITY</h1>
+    <h3><span>Campaigner 재기발랄한 활동가 (ENFP) </span> </h3> 
 </div>
 <article class="main description">
 	<blockquote>

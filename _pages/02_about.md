@@ -384,44 +384,6 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
     </div>
  </div>
 </div>
-<div class="col">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
-<div class="row">
-<h1><span data-i18n="skills.my_skills">SKILLS</span></h1>
-<canvas id="cs" height="100" width="100"></canvas>    
-<script>
-    var ctx = document.getElementById("cs");
-    var data = {
-    labels: "Collaboration, Data Analysis, Python, HTML/CSS, Communication, PM".split(","),
-    datasets: [{
-        label: "Ability",
-        backgroundColor: "rgba(179,181,198,0.2)",
-        borderColor: "#FF6B6B",
-        pointBackgroundColor: "#FF6B6B",
-        pointBorderColor: "#fff",
-        pointHoverBackgroundColor: "#FF6B6B",
-        pointHoverBorderColor: "#FF6B6B",
-        data: [95, 80, 70, 85, 85, 80]
-        }]
-    };
-    var myRadarChart = new Chart(ctx, {
-    type: 'radar',
-    data: data,
-    options: {
-
-        scale: {
-            responsive: true,
-            ticks: {min: 0, max: 100},
-            lineArc: false,
-            pointLabels: {fontSize: 15},
-        },
-        scaleFontSize: 0,
-        legend: {display: false},
-    }
-    });
-</script>
-</div>
-</div>
 </body>
 </html>
 
