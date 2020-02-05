@@ -251,8 +251,8 @@ author_profile: true
 
 		</style>
 	</head>
-</html>
 
+<body>
 <script src="https://use.typekit.net/bkt6ydm.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
@@ -338,6 +338,8 @@ author_profile: true
  </div>
 </div>
 
+</body>
+</html>
 
 {% include group-by-array collection=site.posts field="categories" %}
 {% for category in group_names %}
