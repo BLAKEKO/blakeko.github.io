@@ -20,9 +20,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "고병휘"
+title                    : "고병휘 BLAKE KO"
 title_separator          : "-"
-subtitle                 : "BLAKE KO"
+subtitle                 : "UX/HCI Researcher"
 name                     : "고병휘"
 description              : "Welcome To My Website"
 url                      : "https://blakeko.github.io"
@@ -113,7 +113,7 @@ analytics:
 author:
   name             : "고병휘"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I’m Blake Ko, a **UX/HCI** researcher."
+  bio              : "I’m **Blake Ko**, a **UX/HCI** researcher."
   location         : "Seoul, South Korea"
   email            :
   links:
