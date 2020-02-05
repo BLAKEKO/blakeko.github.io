@@ -13,7 +13,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-	<link rel="stylesheet" href="mystyle.css">
+	<link rel="stylesheet" href="/mystyle.css">
 </head>
 <body>
 <script src="https://use.typekit.net/bkt6ydm.js"></script>
