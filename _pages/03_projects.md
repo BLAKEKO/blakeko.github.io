@@ -259,6 +259,33 @@ author_profile: true
 <div class="col">
 <div class="container-fluid">
     <div class="row example-basic">
+    	<div class="row example-basic">
+            <h1>PUBLICATIONS</h1>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+            <ul class="timeline">
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>EA of the SIGCHI Conference on Human Factors in Computing Systems (CHI’20). ACM. 2020. </span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Do You Hear Me? Cues for Interactive Contents on Smart Speaker to Draw Attention</h3>
+                        <p>Byunghi Ko, Yoojung Kim, Joongseek Lee</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker?</h3>
+                        <p>Byunghi Ko, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    	</div>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
             <ul class="timeline">
                 <li class="timeline-item">
@@ -307,33 +334,6 @@ author_profile: true
                 </li>
             </ul>
         </div>
-        <div class="row example-basic">
-            <h1>PUBLICATIONS</h1>
-        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-            <ul class="timeline">
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>EA of the SIGCHI Conference on Human Factors in Computing Systems (CHI’20). ACM. 2020. </span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Do You Hear Me? Cues for Interactive Contents on Smart Speaker to Draw Attention</h3>
-                        <p>Byunghi Ko, Yoojung Kim, Joongseek Lee</p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker?</h3>
-                        <p>Byunghi Ko, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </div>
     </div>
  </div>
 </div>
