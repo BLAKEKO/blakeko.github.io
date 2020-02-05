@@ -413,20 +413,8 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 </body>
 </html>
 
----
 
-I am studying for a Master's degree in the Graduate School of Convergence Science and Technology [(GSCST)](http://convergence.snu.ac.kr/main/) from Seoul National University [(SNU)](http://snu.ac.kr/index.html), studying under Joongseek Lee.
-
----
-
-<h1>Bio</h1>
-	
-- **March 2019 ~ July 2019** 
-Graduate Research Assistant @ <a href="http://ux.snu.ac.kr/" target="_blank">User eXperience Lab at Seoul National University</a><br>
-- **June 2016 ~ September 2016** 
-Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Hall Information and Communication Security Officer Information Protection Team</a><br>
-
----
+<!-- ---
 
 <h1>Education</h1>
 
@@ -438,7 +426,7 @@ Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Ha
 <a href="https://h-da.com/">Darmstadt University of Applied Sciences</a><br>
 - **2007 ~ 2010**
 <a href="http://djflhs.djsch.kr/main.do">Daejeon Foreign Language High School</a><br>
-	
+	 -->
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
