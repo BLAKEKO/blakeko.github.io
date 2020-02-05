@@ -265,10 +265,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 </header> -->
 <div class="container-fluid">
     <div class="row example-basic">
-        <div class="col-md-12 example-title">
-            <h2>Education</h2>
-            <p>교육</p>
-        </div>
+    	<h1> EDUCATION </h1>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
             <ul class="timeline">
                 <li class="timeline-item">
