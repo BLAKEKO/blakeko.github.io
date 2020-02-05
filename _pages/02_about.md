@@ -315,10 +315,10 @@ a {
 <body>
 <script src="https://use.typekit.net/bkt6ydm.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
-<!-- <header class="example-header">
+<header class="example-header">
     <h1 class="text-center">Simple Responsive Timeline</h1>
     <p>Handcrafted by <a href="http://overflowdg.com" target="_blank">Overflow</a></p>
-</header> -->
+</header>
 <div class="container-fluid">
     <div class="row example-basic">
         <div class="col-md-12 example-title">
@@ -334,8 +334,7 @@ a {
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Event Title</h3>
-                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
-                            eu pede mollis pretium. Pellentesque ut neque.</p>
+                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis eu pede mollis pretium. Pellentesque ut neque.</p>
                     </div>
                 </li>
                 <li class="timeline-item">
@@ -345,8 +344,7 @@ a {
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Event Title</h3>
-                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
-                            eu pede mollis pretium. Pellentesque ut neque. </p>
+                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis eu pede mollis pretium. Pellentesque ut neque. </p>
                     </div>
                 </li>
                 <li class="timeline-item period">
