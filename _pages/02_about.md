@@ -634,7 +634,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
         pointBorderColor: "#fff",
         pointHoverBackgroundColor: "#FF6B6B",
         pointHoverBorderColor: "#FF6B6B",
-        data: [95, 80, 85, 70, 85, 80]
+        data: [95, 80, 70, 85, 85, 80]
         }]
     };
     var myRadarChart = new Chart(ctx, {
