@@ -36,7 +36,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
             responsive: true,
             ticks: {min: 0, max: 100},
             lineArc: false,
-            pointLabels: {fontSize: 14},
+            pointLabels: {fontSize: 20},
         },
         scaleFontSize: 0,
         legend: {display: false},
