@@ -259,7 +259,6 @@ author_profile: true
 <div class="col">
 <div class="container-fluid">
     <div class="row example-basic">
-    	<h1>PROJECTS</h1>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
             <ul class="timeline">
                 <li class="timeline-item">
@@ -314,12 +313,22 @@ author_profile: true
             <ul class="timeline">
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March 2019 ~ July 2019</span>
+                        <span>2020</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Graduate Research Assistant</h3>
-                        <p>서울대학교 자유전공학부 창의융합프로젝트 조교</p>
+                        <h3 class="timeline-title">Do You Hear Me? Cues for Interactive Contents on Smart Speaker to Draw Attention</h3>
+                        <p>Byunghi Ko, Yoojung Kim, Joongseek Lee</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>2020</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker?</h3>
+                        <p>Byunghi Ko, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
                     </div>
                 </li>
             </ul>
