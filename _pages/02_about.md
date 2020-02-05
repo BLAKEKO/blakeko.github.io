@@ -310,6 +310,7 @@ a {
                 background: $primary-color;
             }
         }
+</style>
 </head>
 <body>
 <script src="https://use.typekit.net/bkt6ydm.js"></script>
@@ -504,7 +505,6 @@ a {
     </div>
 </div>
 </body>
-</style>
 </html>
 <h1>Bio</h1>
 	
