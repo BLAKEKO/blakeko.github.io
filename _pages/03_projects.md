@@ -252,6 +252,91 @@ author_profile: true
 		</style>
 	</head>
 </html>
+
+<script src="https://use.typekit.net/bkt6ydm.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<div class="col">
+<div class="container-fluid">
+    <div class="row example-basic">
+    	<h1>PROJECTS</h1>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+            <ul class="timeline">
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>Jenuary 2019 ~ December 2019</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발</h3>
+                        <p>Developing a smart speaker service that curates events in various domains such as, but not limited to, classical music, musicals, plays, and concerts. Investigating the potential use of user preference data on various everyday objects to supplement the recommendation of cultural events.</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>August 2016 ~ Februrary 2017</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">University of Applied Sciences Darmstadt</h3>
+                        <p>한-EU ICI 교환학생 장학 프로그램</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>March 2012 ~ Februrary 2018</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Hanyang University</h3>
+                        <p>한양대학교 공과대학 정보시스템학과</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>March 2007 ~ Februrary 2010</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Daejeon Foreign Language High School</h3>
+                        <p>대전외국어고등학교 영어과</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="row example-basic">
+            <h1>PUBLICATIONS</h1>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+            <ul class="timeline">
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>March 2019 ~ July 2019</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Graduate Research Assistant</h3>
+                        <p>서울대학교 자유전공학부 창의융합프로젝트 조교</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>June 2016 ~ September 2016</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Internship</h3>
+                        <p>서울시청 정보통신보안담당관 정보보안팀
+                        	<br>Seoul City Hall Information Protection Team</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    </div>
+ </div>
+</div>
+
+
 <div class="row">
     <div class="col">
 		<div class="row" style="margin-bottom: 20px">
