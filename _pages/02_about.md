@@ -311,7 +311,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Seoul National University</h3>
-                        <p>서울대학교 융합과학기술대학원 디지털정보융합전공 사용자경험연구실</p>
+                        <p>서울대학교 융합과학기술대학원 사용자경험연구실</p>
                     </div>
                 </li>
                 <li class="timeline-item">
