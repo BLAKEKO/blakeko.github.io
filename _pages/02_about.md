@@ -315,10 +315,10 @@ a {
 <body>
 <script src="https://use.typekit.net/bkt6ydm.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
-<header class="example-header">
+<!-- <header class="example-header">
     <h1 class="text-center">Simple Responsive Timeline</h1>
     <p>Handcrafted by <a href="http://overflowdg.com" target="_blank">Overflow</a></p>
-</header>
+</header> -->
 <div class="container-fluid">
     <div class="row example-basic">
         <div class="col-md-12 example-title">
