@@ -275,7 +275,7 @@ a {
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Seoul National University</h3>
-                        <p>...</p>
+                        <p>서울대학교 융합과학기술대학원 디지털정보융합전공 사용자경험연구실</p>
                     </div>
                 </li>
                 <li class="timeline-item">
@@ -284,8 +284,8 @@ a {
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Darmstadt University of Applied Sciences</h3>
-                        <p>...</p>
+                        <h3 class="timeline-title">University of Applied Sciences Darmstadt</h3>
+                        <p>한-EU ICI 교환학생 장학 프로그램</p>
                     </div>
                 </li>
                 <li class="timeline-item">
@@ -295,7 +295,7 @@ a {
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Hanyang University</h3>
-                        <p>...</p>
+                        <p>한양대학교 공과대학 정보시스템학과</p>
                     </div>
                 </li>
                 <li class="timeline-item">
@@ -305,7 +305,7 @@ a {
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Daejeon Foreign Language High School</h3>
-                        <p>...</p>
+                        <p>대전외국어고등학교 영어과</p>
                     </div>
                 </li>
             </ul>
