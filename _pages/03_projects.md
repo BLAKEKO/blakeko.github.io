@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "PROJECTS"
+title: "PUBLICATIONS"
 author_profile: true
 ---
 <html>
@@ -260,7 +260,6 @@ author_profile: true
 <div class="container-fluid">
     <div class="row example-basic">
     	<div class="row example-basic">
-            <h1>PUBLICATIONS</h1>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
             <ul class="timeline">
                 <li class="timeline-item">
@@ -286,6 +285,7 @@ author_profile: true
             </ul>
         </div>
     	</div>
+    	<h1>PROJECTS</h1>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
             <ul class="timeline">
                 <li class="timeline-item">
