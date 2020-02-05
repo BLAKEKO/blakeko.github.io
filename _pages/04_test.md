@@ -280,7 +280,7 @@ a {
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>August, 2016 ~ Feburary, 2017</span>
+                        <span>August, 2016 ~ Februrary, 2017</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -290,7 +290,7 @@ a {
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March, 2012 ~ Feburary, 2018</span>
+                        <span>March, 2012 ~ Februrary, 2018</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -300,7 +300,7 @@ a {
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March, 2007 ~ Feburary, 2010</span>
+                        <span>March, 2007 ~ Februrary, 2010</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -436,6 +436,7 @@ a {
 </div>
 </body>
 </html>
+
 
 
 {% include group-by-array collection=site.posts field="categories" %}
