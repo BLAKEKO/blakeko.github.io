@@ -438,7 +438,7 @@ a {
 </html>
 
 
-
+<!-- 
 {% include group-by-array collection=site.posts field="categories" %}
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
@@ -446,4 +446,4 @@ a {
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
-{% endfor %}
+{% endfor %} -->
