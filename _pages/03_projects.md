@@ -264,22 +264,24 @@ author_profile: true
             <ul class="timeline">
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>EA of the SIGCHI Conference on Human Factors in Computing Systems (CHI’20). ACM. 2020. </span>
+                        <span>April 2020</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Do You Hear Me? Cues for Interactive Contents on Smart Speaker to Draw Attention</h3>
                         <p>Byunghi Ko, Yoojung Kim, Joongseek Lee</p>
+                        <p><i>EA of the SIGCHI Conference on Human Factors in Computing Systems (CHI’20). ACM. 2020.</i></p>
                     </div>
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</span>
+                        <span>February 2020</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">How do users react to interactive contents on smart speaker?</h3>
                         <p>Byunghi Ko, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
+                        <p><i>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</i></p>
                     </div>
                 </li>
             </ul>
