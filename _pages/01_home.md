@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /home/
-<!-- title: "HOME" -->
+title: "HOME"
 author_profile: true
 ---
 
