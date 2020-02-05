@@ -654,12 +654,6 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
     });
 </script>
 
----
-
-
-
-
-
 
 
 {% include group-by-array collection=site.posts field="categories" %}
