@@ -6,6 +6,45 @@ author_profile: true
 ---
 
 I am studying for a Master's degree in the Graduate School of Convergence Science and Technology [(GSCST)](http://convergence.snu.ac.kr/main/) from Seoul National University [(SNU)](http://snu.ac.kr/index.html), studying under Joongseek Lee.
+
+---
+
+<div class="col l4 offset-l1">
+        <div class="row">
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+<h1><span data-i18n="skills.my_skills">Skills</span></h1>
+<canvas id="cs" height="500" width="500"></canvas>    
+<script>
+    var ctx = document.getElementById("cs");
+    var data = {
+    labels: "Collaboration, Data Analysis, Python, HTML/CSS, C++, PM".split(","),
+    datasets: [{
+        label: "Ability",
+        backgroundColor: "rgba(179,181,198,0.2)",
+        borderColor: "#3385FF",
+        pointBackgroundColor: "#3385FF",
+        pointBorderColor: "#fff",
+        pointHoverBackgroundColor: "#3385FF",
+        pointHoverBorderColor: "#3385FF",
+        data: [95, 80, 90, 70, 70, 80]
+        }]
+    };
+    var myRadarChart = new Chart(ctx, {
+    type: 'radar',
+    data: data,
+    options: {
+        scale: {
+            responsive: true,
+            ticks: {min: 0, max: 100},
+            lineArc: false,
+            pointLabels: {fontSize: 14},
+        },
+        scaleFontSize: 0,
+        legend: {display: false},
+    }
+    });
+</script>
+        </div>
 <div class="row">
             <h1><span data-i18n="skills.my_skills">Bio</span></h1>
 
