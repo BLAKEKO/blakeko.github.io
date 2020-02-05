@@ -13,7 +13,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
         <div class="row">
             <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
 <h1><span data-i18n="skills.my_skills">Skills</span></h1>
-<canvas id="cs" height="500" width="500"></canvas>    
+<canvas id="cs" height="100" width="100"></canvas>    
 <script>
     var ctx = document.getElementById("cs");
     var data = {
