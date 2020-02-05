@@ -13,7 +13,6 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-
 $primary-color: #FF6B6B;
 $primary-color-hover: scale-color($primary-color, $lightness: 32%);
 
