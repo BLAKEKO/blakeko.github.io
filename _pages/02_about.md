@@ -7,7 +7,7 @@ author_profile: true
 
 I am studying for a Master's degree in **the Graduate School of Convergence Science and Technology** [(GSCST)](http://convergence.snu.ac.kr/main/) from **Seoul National University** [(SNU)](http://snu.ac.kr/index.html), studying under Joongseek Lee.
 
----
+<!-- --- -->
 
 
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
@@ -354,9 +354,6 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
             </ul>
         </div>
     </div>
- </div>
-</div>
-<div class="container-fluid">
     <div class="row example-basic">
             <h1>WORK EXPERIENCE</h1>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
@@ -385,6 +382,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
             </ul>
         </div>
     </div>
+ </div>
 </div>
 <div class="col">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
