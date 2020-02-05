@@ -4,7 +4,11 @@ permalink: /about/
 title: "ABOUT"
 author_profile: true
 ---
+---
 
+I am studying for a Master's degree in the Graduate School of Convergence Science and Technology [(GSCST)](http://convergence.snu.ac.kr/main/) from Seoul National University [(SNU)](http://snu.ac.kr/index.html), studying under Joongseek Lee.
+
+---
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -255,10 +259,10 @@ author_profile: true
 <body>
 <script src="https://use.typekit.net/bkt6ydm.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
-<header class="example-header">
+<!-- <header class="example-header">
     <h1 class="text-center">About Me</h1>
     <p>I am studying for a Master's degree in the Graduate School of Convergence Science and Technology <a href="http://convergence.snu.ac.kr/main/" target="_blank">(GSCST)</a> from Seoul National University <a href="http://snu.ac.kr/index.html" target="_blank">(SNU)</a>, studying under Joongseek Lee. </p>
-</header>
+</header> -->
 <div class="container-fluid">
     <div class="row example-basic">
         <div class="col-md-12 example-title">
