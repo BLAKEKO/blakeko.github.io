@@ -37,7 +37,7 @@ Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Ha
 <script>
     var ctx = document.getElementById("cs");
     var data = {
-    labels: "Collaboration, Data Analysis, Python, HTML/CSS, C++, PM".split(","),
+    labels: "Collaboration, Data Analysis, Python, HTML/CSS, Communication, PM".split(","),
     datasets: [{
         label: "Ability",
         backgroundColor: "rgba(179,181,198,0.2)",
@@ -46,7 +46,7 @@ Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Ha
         pointBorderColor: "#fff",
         pointHoverBackgroundColor: "#3385FF",
         pointHoverBorderColor: "#3385FF",
-        data: [95, 80, 90, 70, 70, 80]
+        data: [95, 80, 85, 70, 85, 80]
         }]
     };
     var myRadarChart = new Chart(ctx, {
