@@ -629,11 +629,11 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
     datasets: [{
         label: "Ability",
         backgroundColor: "rgba(179,181,198,0.2)",
-        borderColor: "#3385FF",
-        pointBackgroundColor: "#3385FF",
+        borderColor: "#FF6B6B",
+        pointBackgroundColor: "#FF6B6B",
         pointBorderColor: "#fff",
-        pointHoverBackgroundColor: "#3385FF",
-        pointHoverBorderColor: "#3385FF",
+        pointHoverBackgroundColor: "#FF6B6B",
+        pointHoverBorderColor: "#FF6B6B",
         data: [95, 80, 85, 70, 85, 80]
         }]
     };
