@@ -313,7 +313,7 @@ author_profile: true
             <ul class="timeline">
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>2020</span>
+                        <span>EA of the SIGCHI Conference on Human Factors in Computing Systems (CHI’20). ACM. 2020. </span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -323,7 +323,7 @@ author_profile: true
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>2020</span>
+                        <span>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
