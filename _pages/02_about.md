@@ -9,6 +9,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 
 ---
 
+<div class="col">
 <div class="row">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
 	<h1><span data-i18n="skills.my_skills">Skills</span></h1>
@@ -49,10 +50,10 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 	<div class="archive">
 		<div class="timeline" id="timeline">
 			<div class="archive-title">
-				<div class="archive-year"><strong style="margin-right: 2px;">Mar. 2018 &ndash; <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i></strong> Graduate Research Assistant @ <a href="http://ux.snu.ac.kr/" target="_blank">User eXperience Lab at Seoul National University</a></div>
+				<div class="archive-year"><strong style="margin-right: 2px;">March 2019 &ndash; July 2019<i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i></strong> Graduate Research Assistant @ <a href="http://ux.snu.ac.kr/" target="_blank">User eXperience Lab at Seoul National University</a></div>
 			</div>
 			<div class="archive-title">
-				<div class="archive-year"><strong style="margin-right: 2px;">May 2012 &ndash; Feb. 2015</strong> Junior Developer @ <a href="http://www.redwood-inc.com/" target="_blank">Redwood Interactive</a></div>
+				<div class="archive-year"><strong style="margin-right: 2px;">July 2016 &ndash; August 2016</strong> Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Hall Information and Communication Security Officer Information Protection Team</a></div>
 			</div>
 		</div>
 	</div>
@@ -69,10 +70,14 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 				<div class="archive-year"><strong style="margin-right: 2px;">2012 &ndash; 2018</strong> <a href="http://www.hanyang.ac.kr/">Hanyang University</a></div>
 			</div>
 			<div class="archive-title bio">
+				<div class="archive-year"><strong style="margin-right: 2px;">2016 &ndash; 2017</strong> <a href="https://h-da.com/">Darmstadt University of Applied Sciences</a></div>
+			</div>
+			<div class="archive-title bio">
 				<div class="archive-year"><strong style="margin-right: 2px;">2007 &ndash; 2010</strong> <a href="http://djflhs.djsch.kr/main.do">Daejeon Foreign Language High School</a></div>
 			</div>
 		</div>
 	</div>
+</div>
 </div>
 
 
