@@ -28,9 +28,9 @@ h1,h2,h3,h4,h5,h6 {
     margin-top: 0;
 }
 a {
-    color: $primary-color;
+    color: #FF6B6B;
     &:hover {
-        color: $primary-color-hover;
+        color: scale-color(#FF6B6B, $lightness: 32%);;
         text-decoration: none;
     }
 }
@@ -117,7 +117,7 @@ a {
         top: 0; bottom: 0; left: 0;
         width: 15px;
         &:before {
-            background: $primary-color;
+            background: #FF6B6B;
             border: 3px solid transparent;
             border-radius: 100%;
             content: "";
@@ -143,7 +143,7 @@ a {
     }
     .timeline-item:not(.period):hover .timeline-marker:before {
         background: transparent;
-        border: 3px solid $primary-color;
+        border: 3px solid #FF6B6B;
     }
 
     /*----- TIMELINE CONTENT -----*/
@@ -303,11 +303,11 @@ a {
             .timeline-marker {
                 &:before {
                     background: transparent;
-                    border-color: $primary-color;
+                    border-color: #FF6B6B;
                 }
             }
             .timeline-item:hover .timeline-marker:before {
-                background: $primary-color;
+                background: #FF6B6B;
             }
         }
 </style>
