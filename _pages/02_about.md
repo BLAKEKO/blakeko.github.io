@@ -10,9 +10,9 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
 ---
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
-<div class="col l4 offset-l1">
-        <div class="row">
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+<div class="col">
+<div class="row">
 <h1><span data-i18n="skills.my_skills">SKILLS</span></h1>
 <canvas id="cs" height="100" width="100"></canvas>    
 <script>
@@ -48,7 +48,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
 
 </script>
 </div>
-</div>
+</div> -->
 
 ---
 <html>
@@ -305,6 +305,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
     <h1 class="text-center">About Me</h1>
     <p>I am studying for a Master's degree in the Graduate School of Convergence Science and Technology <a href="http://convergence.snu.ac.kr/main/" target="_blank">(GSCST)</a> from Seoul National University <a href="http://snu.ac.kr/index.html" target="_blank">(SNU)</a>, studying under Joongseek Lee. </p>
 </header> -->
+<div class="col">
 <div class="container-fluid">
     <div class="row example-basic">
     	<h1> EDUCATION </h1>
@@ -354,6 +355,75 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
         </div>
     </div>
  </div>
+</div>
+<div class="container-fluid">
+    <div class="row example-basic">
+            <h1>WORK EXPERIENCE</h1>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+            <ul class="timeline">
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>March 2019 ~ July 2019</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Graduate Research Assistant</h3>
+                        <p>서울대학교 자유전공학부 수업 조교</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>June 2016 ~ September 2016</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Internship</h3>
+                        <p>서울시청 정보통신보안담당관 정보보안팀
+                        	<br>Seoul City Hall Information Protection Team</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="col">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+<div class="row">
+<h1><span data-i18n="skills.my_skills">SKILLS</span></h1>
+<canvas id="cs" height="100" width="100"></canvas>    
+<script>
+    var ctx = document.getElementById("cs");
+    var data = {
+    labels: "Collaboration, Data Analysis, Python, HTML/CSS, Communication, PM".split(","),
+    datasets: [{
+        label: "Ability",
+        backgroundColor: "rgba(179,181,198,0.2)",
+        borderColor: "#FF6B6B",
+        pointBackgroundColor: "#FF6B6B",
+        pointBorderColor: "#fff",
+        pointHoverBackgroundColor: "#FF6B6B",
+        pointHoverBorderColor: "#FF6B6B",
+        data: [95, 80, 70, 85, 85, 80]
+        }]
+    };
+    var myRadarChart = new Chart(ctx, {
+    type: 'radar',
+    data: data,
+    options: {
+
+        scale: {
+            responsive: true,
+            ticks: {min: 0, max: 100},
+            lineArc: false,
+            pointLabels: {fontSize: 15},
+        },
+        scaleFontSize: 0,
+        legend: {display: false},
+    }
+    });
+</script>
+</div>
+</div>
 </body>
 </html>
 
