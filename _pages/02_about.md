@@ -8,7 +8,6 @@ author_profile: true
 I am studying for a Master's degree in the Graduate School of Convergence Science and Technology [(GSCST)](http://convergence.snu.ac.kr/main/) from Seoul National University [(SNU)](http://snu.ac.kr/index.html), studying under Joongseek Lee.
 
 ---
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,7 +17,7 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 }
 
 body {
-  background-color: #474e5d;
+  background-color: #ffffff;
   font-family: Helvetica, sans-serif;
 }
 
@@ -34,7 +33,7 @@ body {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: black;
   top: 0;
   bottom: 0;
   left: 50%;
