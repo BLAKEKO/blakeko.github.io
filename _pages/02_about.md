@@ -11,22 +11,23 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
 
 <h1>Bio</h1>
 	
-March 2019 &ndash; July 2019 <br>
-Graduate Research Assistant @ <a href="http://ux.snu.ac.kr/" target="_blank">User eXperience Lab at Seoul National University
-June 2016 &ndash; September 2016 <br>
-Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Hall Information and Communication Security Officer Information Protection Team</a>
+**March 2019 ~ July 2019** <br>
+Graduate Research Assistant @ <a href="http://ux.snu.ac.kr/" target="_blank">User eXperience Lab at Seoul National University</a><br>
+**June 2016 ~ September 2016** <br>
+Internship @ <a href="http://www.redwood-inc.com/" target="_blank">Seoul City Hall Information and Communication Security Officer Information Protection Team</a><br>
 
 ---
 
 <h1>Education</h1>
-2018 &ndash; <br>
-<a href="http://www.snu.ac.kr/">  Seoul National University</a>
-2012 &ndash; 2018<br> 
-<a href="http://www.hanyang.ac.kr/">Hanyang University</a>
-2016 &ndash; 2017<br> 
-<a href="https://h-da.com/">Darmstadt University of Applied Sciences</a>
-2007 &ndash; 2010<br> 
-<a href="http://djflhs.djsch.kr/main.do">Daejeon Foreign Language High School</a>
+
+**2018 ~** <br>
+<a href="http://www.snu.ac.kr/">  Seoul National University</a><br>
+**2012 ~ 2018**<br> 
+<a href="http://www.hanyang.ac.kr/">Hanyang University</a><br>
+**2016 ~ 2017**<br> 
+<a href="https://h-da.com/">Darmstadt University of Applied Sciences</a><br>
+**2007 ~ 2010**<br> 
+<a href="http://djflhs.djsch.kr/main.do">Daejeon Foreign Language High School</a><br>
 	
 ---
 <html>
