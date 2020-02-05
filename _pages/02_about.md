@@ -610,16 +610,6 @@ I am studying for a Master's degree in the Graduate School of Convergence Scienc
                         	<br>Seoul City Hall Information and Communication Security Officer Information Protection Team</p>
                     </div>
                 </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>April 2016</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
-                        <p>...</p>
-                    </div>
-                </li>
             </ul>
         </div>
     </div>
