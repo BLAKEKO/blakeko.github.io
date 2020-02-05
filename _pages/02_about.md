@@ -31,7 +31,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
     type: 'radar',
     data: data,
     options: {
-        maintainAspectRatio: false,
+
         scale: {
             responsive: true,
             ticks: {min: 0, max: 100},
