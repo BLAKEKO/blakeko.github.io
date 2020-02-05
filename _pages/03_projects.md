@@ -254,26 +254,18 @@ author_profile: true
 </html>
 <div class="row">
     <div class="col">
-            <h1><span data-i18n="skills.my_skills">Projects</span></h1>
 		<div class="row" style="margin-bottom: 20px">
             <div class="col">
-                <h4 style="margin: 0">Culture Concierge & Preference Collection</h4>
+                <h3 style="margin: 0">Culture Concierge & Preference Collection</h3>
                 <p style="margin: 0; font-style: italic;">Project with the Korea Creative Contents Agency, May. 2018 &ndash; Current</p>
                 <p style="margin: 5px 0 0 0">: Developing a smart speaker service that curates events in various domains such as, but not limited to, classical music, musicals, plays, and concerts. Investigating the potential use of user preference data on various everyday objects to supplement the recommendation of cultural events.</p>
             </div>
         </div>
 		<div class="row" style="margin-bottom: 20px">
         	<div class="col">
-            <h4 style="margin: 0">Television Audio Experience</h4>
+            <h3 style="margin: 0">Television Audio Experience</h3>
             <p style="margin: 0; font-style: italic;">Project with Samsung Electronics, Mar. 2017 &ndash; Dec. 2017</p>
             <p style="margin: 5px 0 0 0">: A data-driven investigation focused on user behaviors and satisfaction points during television watching. Data collected from the TV, remote controller, and bluetooth trackers are supplemented by qualitative user data collected via event-timely chatbots.</p>
-        	</div>
-        </div>
-		<div class="row" style="margin-bottom: 20px">
-        	<div class="col">
-            <h4 style="margin: 0">News Big Data - User Participatory Services</h4>
-            <p style="margin: 0; font-style: italic;">Project with the Korea Press Foundation, May 2016 &ndash; Dec. 2016</p>
-            <p style="margin: 5px 0 0 0">: Analysis of news quotes from press releases, understanding how users obtain news and information, and suggesting a new interface and service where users can easily participate in writing well-founded news articles with official quotes and sources.</p>
         	</div>
         </div>
     </div>
