@@ -9,7 +9,10 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
 
 ---
 
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+<div class="col l4 offset-l1">
+        <div class="row">
 <h1><span data-i18n="skills.my_skills">SKILLS</span></h1>
 <canvas id="cs" height="100" width="100"></canvas>    
 <script>
@@ -42,7 +45,10 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
         legend: {display: false},
     }
     });
+
 </script>
+</div>
+</div>
 
 ---
 <html>
