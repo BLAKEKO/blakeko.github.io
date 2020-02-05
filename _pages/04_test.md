@@ -263,48 +263,48 @@ a {
 <div class="container-fluid">
     <div class="row example-basic">
         <div class="col-md-12 example-title">
-            <h2>Bio</h2>
-            <p>Extra small devices (phones, less than 768px)</p>
+            <h2>Education</h2>
+            <p>교육</p>
         </div>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
             <ul class="timeline">
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March 12, 2016</span>
+                        <span>March, 2018</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
+                        <h3 class="timeline-title">Seoul National University</h3>
                         <p>...</p>
                     </div>
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March 23, 2016</span>
+                        <span>August, 2016</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
+                        <h3 class="timeline-title">Darmstadt University of Applied Sciences</h3>
                         <p>...</p>
                     </div>
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>April 02, 2016</span>
+                        <span>March, 2012</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
+                        <h3 class="timeline-title">Hanyang University</h3>
                         <p>...</p>
                     </div>
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>April 28, 2016</span>
+                        <span>March, 2007</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
+                        <h3 class="timeline-title">Daejeon Foreign Language High School</h3>
                         <p>...</p>
                     </div>
                 </li>
