@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 > “Your reputation is what others think of you; your character is what you truly are. Reputations can be manipulated; character can only be developed and maintained.” <br>
-
->_Bohdi Sanders, Men of the Code: Living as a Superior Man_
+_Bohdi Sanders, Men of the Code: Living as a Superior Man_
 
 {% include group-by-array collection=site.posts field="categories" %}
 {% for category in group_names %}
