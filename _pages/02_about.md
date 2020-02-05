@@ -8,153 +8,387 @@ author_profile: true
 I am studying for a Master's degree in the Graduate School of Convergence Science and Technology [(GSCST)](http://convergence.snu.ac.kr/main/) from Seoul National University [(SNU)](http://snu.ac.kr/index.html), studying under Joongseek Lee.
 
 ---
-<div class="box">
-            <ul id="first-list">
-                <li>
-                    <span></span>
-                    <div class="title">comment #01</div>
-                    <div class="info">the best animation , the best toturials you would ever see .</div>
-                    <div class="name">- dr. mohamed -</div>
-                    <div class="time">
-                        <span>JUN, 17<sup>th</sup></span>
-                        <span>12:00 AM</span>
-                    </div>
-                </li>
-                <li>
-                    <span></span>
-                    <div class="title">summery #01</div>
-                    <div class="info">the best animation , the best toturials you would ever see here only . you can learn how to animate and how to use SVG . even else you can add your own animations .</div>
-                    <div class="name">- eng. amr -</div>
-                    <div class="time">
-                        <span>JUN, 29<sup>th</sup></span>
-                        <span>11:36 AM</span>
-                    </div>
-                </li>
-                <li>
-                    <span></span>
-                    <div class="title">comment #02</div>
-                    <div class="info">the best animation , the best toturials you would ever see . what about canvas ?? do you like it ..</div>
-                    <div class="name">- dr. ahmed -</div>
-                    <div class="time">
-                        <span>FEB, 2<sup>nd</sup></span>
-                        <span>02:00 PM</span>
-                    </div>
-                </li>
-                <div class="arrow" id="btn1">           
-                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 284.929 284.929" style="enable-background:new 0 0 284.929 284.929;" xml:space="preserve">
-                    <g>
-                        <g>
-                            <path d="M135.899,167.877c1.902,1.902,4.093,2.851,6.567,2.851s4.661-0.948,6.562-2.851L282.082,34.829    c1.902-1.903,2.847-4.093,2.847-6.567s-0.951-4.665-2.847-6.567L267.808,7.417c-1.902-1.903-4.093-2.853-6.57-2.853    c-2.471,0-4.661,0.95-6.563,2.853L142.466,119.622L30.262,7.417c-1.903-1.903-4.093-2.853-6.567-2.853    c-2.475,0-4.665,0.95-6.567,2.853L2.856,21.695C0.95,23.597,0,25.784,0,28.262c0,2.478,0.953,4.665,2.856,6.567L135.899,167.877z" fill="#FFFFFF"/>
-                            <path d="M267.808,117.053c-1.902-1.903-4.093-2.853-6.57-2.853c-2.471,0-4.661,0.95-6.563,2.853L142.466,229.257L30.262,117.05    c-1.903-1.903-4.093-2.853-6.567-2.853c-2.475,0-4.665,0.95-6.567,2.853L2.856,131.327C0.95,133.23,0,135.42,0,137.893    c0,2.474,0.953,4.665,2.856,6.57l133.043,133.046c1.902,1.903,4.093,2.854,6.567,2.854s4.661-0.951,6.562-2.854l133.054-133.046    c1.902-1.903,2.847-4.093,2.847-6.565c0-2.474-0.951-4.661-2.847-6.567L267.808,117.053z" fill="#FFFFFF"/>
-                        </g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                </svg>   
-            </div> 
-            </ul>    
-            <ul id="second-list">
-                <li>
-                    <span></span>
-                    <div class="title">comment #03</div>
-                    <div class="info">the best animation , the best toturials you would ever see .</div>
-                    <div class="name">- mohamed -</div>
-                    <div class="time">
-                        <span>MAR, 21<sup>st</sup></span>
-                        <span>03:49 PM</span>
-                    </div>
-                </li>
-                <li>
-                    <span></span>
-                    <div class="title">summery #02</div>
-                    <div class="info">the best animation , the best toturials you would ever see here only . you can learn how to animate and how to use SVG . even else you can add your own animations .</div>
-                    <div class="name">- mohamed -</div>
-                    <div class="time">
-                        <span>MAY, 13<sup>rd</sup></span>
-                        <span>09:23 AM</span>
-                    </div>
-                </li>
-                <li>
-                    <span></span>
-                    <div class="title">comment #04</div>
-                    <div class="info">the best animation , the best toturials you would ever see . what about canvas ?? do you like it ..</div>
-                    <div class="name">- mohamed -</div>
-                    <div class="time">
-                        <span>OCT, 15<sup>th</sup></span>
-                        <span>08:30 PM</span>
-                    </div>
-                </li>
-                <div class="arrow" id="btn2">
-                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 284.929 284.929" style="enable-background:new 0 0 284.929 284.929;" xml:space="preserve">
-                    <g>
-                        <g>
-                            <path d="M135.899,167.877c1.902,1.902,4.093,2.851,6.567,2.851s4.661-0.948,6.562-2.851L282.082,34.829    c1.902-1.903,2.847-4.093,2.847-6.567s-0.951-4.665-2.847-6.567L267.808,7.417c-1.902-1.903-4.093-2.853-6.57-2.853    c-2.471,0-4.661,0.95-6.563,2.853L142.466,119.622L30.262,7.417c-1.903-1.903-4.093-2.853-6.567-2.853    c-2.475,0-4.665,0.95-6.567,2.853L2.856,21.695C0.95,23.597,0,25.784,0,28.262c0,2.478,0.953,4.665,2.856,6.567L135.899,167.877z" fill="#FFFFFF"/>
-                            <path d="M267.808,117.053c-1.902-1.903-4.093-2.853-6.57-2.853c-2.471,0-4.661,0.95-6.563,2.853L142.466,229.257L30.262,117.05    c-1.903-1.903-4.093-2.853-6.567-2.853c-2.475,0-4.665,0.95-6.567,2.853L2.856,131.327C0.95,133.23,0,135.42,0,137.893    c0,2.474,0.953,4.665,2.856,6.57l133.043,133.046c1.902,1.903,4.093,2.854,6.567,2.854s4.661-0.951,6.562-2.854l133.054-133.046    c1.902-1.903,2.847-4.093,2.847-6.565c0-2.474-0.951-4.661-2.847-6.567L267.808,117.053z" fill="#FFFFFF"/>
-                        </g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                    <g>
-                    </g>
-                </svg>
-            </div>
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Bitcoin timeline with fixed header using flexbox</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  
+<div class="container">
+  <div class="header">
+    <svg xmlns="http://www.w3.org/2000/svg" height="64" width="64">
+      <defs>
+        <linearGradient id="verlauf" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="orange" />
+          <stop offset="100%" stop-color="chocolate" />
+        </linearGradient>
+      </defs>
+      <path fill="url(#verlauf)" d="M63.04 39.74C58.764 56.885 41.4 67.318 24.256 63.043 7.12 58.768-3.313 41.404.962 24.262 5.234 7.117 22.597-3.318 39.737.957 56.88 5.23 67.313 22.597 63.04 39.74z"/>
+      <path fill="#FFF" d="M46.11 27.44c.636-4.257-2.606-6.546-7.04-8.073l1.44-5.768-3.512-.876-1.4 5.616c-.923-.23-1.87-.447-2.813-.662l1.41-5.653-3.51-.875-1.438 5.766c-.764-.174-1.514-.346-2.242-.527l.004-.02-4.843-1.208-.934 3.75s2.605.597 2.55.634c1.422.355 1.68 1.296 1.636 2.042l-1.64 6.57c.1.026.226.062.366.118l-.37-.092-2.297 9.205c-.175.43-.616 1.08-1.61.833.035.05-2.552-.637-2.552-.637l-1.743 4.02 4.57 1.138c.85.213 1.682.436 2.502.646l-1.453 5.834 3.507.875 1.44-5.773c.958.26 1.888.5 2.798.726l-1.434 5.745 3.51.875 1.454-5.823c5.987 1.133 10.49.676 12.384-4.74 1.527-4.36-.076-6.874-3.226-8.514 2.294-.53 4.022-2.038 4.483-5.155zm-8.023 11.25c-1.085 4.36-8.426 2.003-10.806 1.412l1.93-7.73c2.38.595 10.01 1.77 8.877 6.318zm1.086-11.312c-.99 3.966-7.1 1.95-9.082 1.457l1.75-7.01c1.98.494 8.364 1.416 7.333 5.553z"/>
+    </svg>
+    <h1>History of bitcoin</h1>
+    <h2>A timeline that shows bitcoin History from the idea all the way to present day.</h2>
+  </div>
+  <div class="item">
+    <div id="timeline">
+      <div>
+        <section class="year">
+          <h3>2007</h3>
+          <section>
+            <ul>
+              <li>Satoshi Nakamoto began working on the Bitcoin concept.</li>
             </ul>
-            <script src="JavaScript/timeline-V2.js"></script>
+          </section>     
+        </section>
+        <section class="year">
+          <h3>2008</h3>
+          <section>
+            <h4>August</h4>
+            <ul>
+              <li>Neal Kin, Vladimir Oksman, and Charles Bry file an application for an encryption patent application.</li>
+              <li>Bitcoin.org was registered at <a href="https://anonymousspeech.com/">anonymousspeech.com</a>.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>October</h4>
+            <ul>
+              <li>Nakamoto describes the Bitcoin currency and solves the problem of double spending.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>November</h4>
+            <ul>
+              <li>The Bitcoin project is registered on <a href="https://sourceforge.net/">SourceForge.net</a>.</li>
+            </ul>
+          </section>
+        </section>
+        <section class="year">
+          <h3>2009</h3>
+          <section>
+            <h4>January</h4>
+            <ul>
+              <li>Block 0 is established.</li>
+              <li>Version 0.1 of Bitcoin is released.</li>
+              <li>The first Bitcoin transaction.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>October</h4>
+            <ul>
+              <li>An exchange rate is established.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>December</h4>
+            <ul>
+              <li>Version 0.2 is released.</li>
+              <li>The difficulty increases.</li>
+            </ul>
+          </section>
+        </section>
+        <section class="year">
+          <h3>2010</h3>
+          <section>
+            <h4>February</h4>
+            <ul>
+              <li>The Bitcoin Market is established as a Bitcoin currency exchange.</li>
+              <li>Encryption patent is published.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>May</h4>
+            <ul>
+              <li>The first real-world transaction using 10,000 BTC spent on pizza.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>July</h4>
+            <ul>
+              <li>Version 0.3 released.</li>
+              <li>In five days, the price grew 1000%, rising from <span class="price">$0.008</span> to  <span class="price">$0.08</span> for 1 bitcoin.</li>
+              <li>The MtGox Bitcoin currency exchange market is established.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>August</h4>
+            <ul>
+              <li>Exploit generates 184 billion Bitcoins.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>October</h4>
+            <ul>
+              <li>Financial task force issues warning.</li>
+              <li>The first public version of an OpenCL miner is released.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>November</h4>
+            <ul>
+              <li>Market cap exceeds $1 million USD.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>December</h4>
+            <ul>
+              <li>Bitcoind compiled for Nokia N900.</li>
+              <li>First mobile Bitcoin transaction.</li>
+              <li>Difficulty increases.</li>
+            </ul>
+          </section>
+        </section>
+        <section class="year">
+          <h3>2011</h3>
+          <section>
+            <h4>January</h4>
+            <ul>
+              <li>Silk Road opens for business.</li>
+              <li>25% of total Bitcoins generated.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>February</h4>
+            <ul>
+              <li>Bitcoin reaches parity with US dollar.</li>
+              <li><a href="https://weusecoins.com/">WeUseCoins.com</a> is created.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>March</h4>
+            <ul>
+              <li>Second largest decrease in difficulty.</li>
+              <li>Britcoin opens for trading.</li>
+              <li>Bitcoin Brasil opens.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>April</h4>
+            <ul>
+              <li>Bitcoin passes parity with Euro.</li>
+              <li>Difficulty surpasses 100,000.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>June</h4>
+            <ul>
+              <li>Bitcoin Market drops PayPal.</li>
+              <li>The largest percentage price decrease to-date became known as the Great Bubble of 2011. Top of bubble at <span class="price">$31.</span></li>
+              <li>WikiLeaks starts accepting Bitcoin.</li>
+              <li>Major breach of security at MtGox.</li>
+              <li>Difficulty passes 1 million.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>August</h4>
+            <ul>
+              <li>Bitcoin Conference and World Expo in New York City, NY.</li>
+              <li>P2Pool mines its first block.</li>
+              <li>Back-to-back drop in difficulty.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>September</h4>
+            <ul>
+              <li>Casascius coins mint physical Bitcoins.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>November</h4>
+            <ul>
+              <li>Bitcoin & Future Technology European Conference in Prague, Czech Republic.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>December</h4>
+            <ul>
+              <li><span class="price">$2</span> minimum price after the first price drop.</li>
+            </ul>
+          </section>
+        </section>
+        <section class="year">
+          <h3>2012</h3>
+          <section>
+            <h4>September</h4>
+            <ul>
+              <li>London 2012 Bitcoin Conference.</li>
+              <li>Bitcoin Foundation begins.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>December</h4>
+            <ul>
+              <li>Slowly rising for a year. Price at <span class="price">$13.</span></li>
+            </ul>
+          </section>
+        </section>
+        <section class="year">
+          <h3>2013</h3>
+          <section>
+            <h4>February</h4>
+            <ul>
+              <li>Version 0.8 released.</li>
+              <li>Bitcoin goes up to <span class="price">$30.</span></li>
+            </ul>
+          </section>
+          <section>
+            <h4>March</h4>
+            <ul>
+              <li>Bitcoin spikes to $74.90.</li>
+              <li>Market cap reaches $1 billion.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>April</h4>
+            <ul>
+              <li>Bitcoin surpasses <span class="price">$100.</span></li>
+              <li>Price hits an all-time high of <span class="price">$266.</span></li>
+              <li>Bitcoin Central is hacked.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>May</h4>
+            <ul>
+              <li>First Bitcoin ATM unveiled.</li>
+              <li>Bitcoin Central gets hacked again.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>October</h4>
+            <ul>
+              <li>FBI shuts down Silk Road.</li>
+              <li>Bitcoin price drops from <span class="price">$139</span> to <span class="price">$109.71</span> in less than three hours after Silk Road closure, recovers.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>November</h4>
+            <ul>
+              <li>Bitcoin price surges to a new all-time record of <span class="price">$1242.</span></li>
+            </ul>
+          </section>
+          <section>
+            <h4>December</h4>
+            <ul>
+              <li>Price crashed to <span class="price">$600</span>, rebounded to <span class="price">$1000</span>, crashed again to the <span class="price">$500</span> range. Stabilized in between.</li>
+              <li>China's Central Bank bans Bitcoin transactions.</li>
+              <li>The network exceeded 10 petahash/sec.</li>
+            </ul>
+          </section>
+        </section>
+        <section class="year">
+          <h3>2014</h3>
+          <section>
+            <h4>January</h4>
+            <ul>
+              <li>Price spiked to <span class="price">$1000</span>, then settled in the <span class="price">$800–$900</span>range.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>March</h4>
+            <ul>
+              <li>Version 0.9 released.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>June</h4>
+            <ul>
+              <li>The network exceeded 100 petahash/sec.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>December</h4>
+            <ul>
+              <li>Microsoft began to accept bitcoin to buy Xbox games and Windows apps.</li>
+            </ul>
+          </section>
+        </section>
+        <section class="year">
+          <h3>2015</h3>
+          <section>
+            <h4>February</h4>
+            <ul>
+              <li>Version 0.10 released.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>July</h4>
+            <ul>
+              <li>Version 0.11 released.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>November</h4>
+            <ul>
+              <li>2015 record high of <span class="price">$504.</span></li>
+            </ul>
+          </section>
+        </section>
+        <section class="year">
+          <h3>2016</h3>
+          <section>
+            <h4>January</h4>
+            <ul>
+              <li>Price at <span class="price">$1150</span> per bitcoin.</li>
+              <li>Price fell 30% in a week, reaching a multi-month low of <span class="price">$750.</span></li>
+              <li>The network exceeded 1 exahash/sec.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>February</h4>
+            <ul>
+              <li>Version 0.12 released.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>April</h4>
+            <ul>
+              <li>Steam started accepting bitcoin as payment.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>August</h4>
+            <ul>
+              <li>Version 0.13 released.</li>
+            </ul>
+          </section>
+          <section>
+            <h4>September</h4>
+            <ul>
+              <li>There are 770 bitcoin ATMs worldwide.</li>
+            </ul>
+          </section>
+        </section>
+        <section class="year">
+          <h3>2017</h3>
+          <section>
+            <h4>March</h4>
+            <ul>
+              <li>Version 0.14 released.</li>
+              <li>The price of 1 bitcoin surpassed the spot price of an ounce of gold for the first time.</li>
+              <li>The number of GitHub projects related to bitcoin passed 10,000.</li>
+              <li>Price traded above <span class="price">$1290.</span></li>
+            </ul>
+          </section>
+          <section>
+            <h4>Today</h4>
+            <ul>
+              <li>At the moment, one bitcoin cost: <span class="price"><div id="btcwidget"></div>.</span></li>
+            </ul>
+          </section>
+        </section>
+      </div>
+    </div>
+  </div>
 </div>
+  <script async src="https://btcwidget.com/btcwidgetsrc.js"></script>
+  
+  
+</body>
+</html>
 
 <div class="col">
 <div class="row">
