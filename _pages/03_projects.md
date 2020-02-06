@@ -269,8 +269,7 @@ author_profile: true
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Do You Hear Me? Cues for Interactive Contents on Smart Speaker to Draw Attention</h3>
-                        <p>Byunghi Ko, Yoojung Kim, Joongseek Lee</p>
-                        <p><i>EA of the SIGCHI Conference on Human Factors in Computing Systems (CHI’20). ACM. 2020.</i></p>
+                        <p>Byunghi Ko, Yoojung Kim, Joongseek Lee<br><i>EA of the SIGCHI Conference on Human Factors in Computing Systems (CHI’20). ACM. 2020.</i></p>
                     </div>
                 </li>
                 <li class="timeline-item">
@@ -280,8 +279,7 @@ author_profile: true
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">How do users react to interactive contents on smart speaker?</h3>
-                        <p>Byunghi Ko, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
-                        <p><i>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</i></p>
+                        <p>Byunghi Ko, Jeongbok Lee, Soomin Lee, Joongseek Lee<br><i>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</i></p>
                     </div>
                 </li>
             </ul>
