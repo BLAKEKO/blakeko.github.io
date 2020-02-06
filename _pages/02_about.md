@@ -317,7 +317,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Seoul National University</h3>
+                        <h3 class="timeline-title">Seoul National University, GSCST</h3>
                         <p>서울대학교 융합과학기술대학원 사용자경험연구실</p>
                     </div>
                 </li>
@@ -337,7 +337,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Hanyang University</h3>
+                        <h3 class="timeline-title">Hanyang University, College of Engineering</h3>
                         <p>한양대학교 공과대학 정보시스템학과</p>
                     </div>
                 </li>
@@ -364,6 +364,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Graduate Research Assistant</h3>
+                        <p>Seoul National University, College of Liberal Studies, Creative Fusion Project</p>
                         <p>서울대학교 자유전공학부 창의융합프로젝트 조교</p>
                     </div>
                 </li>
