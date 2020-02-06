@@ -5,7 +5,7 @@ title: "ABOUT"
 author_profile: true
 ---
 
-I am studying for a Master's degree in **the Graduate School of Convergence Science and Technology** [(GSCST)](http://convergence.snu.ac.kr/main/) from **Seoul National University** [(SNU)](http://snu.ac.kr/index.html), studying under Joongseek Lee. My research interests lie in Voice User Interface(VUI) and interactions. Currently, I am focusing on user experience with interactive contents on smart speakers. 
+I am studying for a Master's degree in **the Graduate School of Convergence Science and Technology** [(GSCST)](http://convergence.snu.ac.kr/main/) from **Seoul National University** [(SNU)](http://snu.ac.kr/index.html). My research interests lie in Voice User Interface(VUI) and voice interaction design. Currently, I am focusing on user experience with interactive contents on smart speakers. 
 
 <!-- --- -->
 
