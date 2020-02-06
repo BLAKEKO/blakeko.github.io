@@ -365,7 +365,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     <div class="timeline-content">
                         <h3 class="timeline-title">Graduate Research Assistant</h3>
                         <p>Seoul National University, College of Liberal Studies, Creative Fusion Project
-                        <br>서울대학교 자유전공학부 창의융합프로젝트 조교</p>
+                        <br>서울대학교 자유전공학부 창의융합프로젝트</p>
                     </div>
                 </li>
                 <li class="timeline-item">
