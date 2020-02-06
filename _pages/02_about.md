@@ -317,7 +317,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Seoul National University, GSCST</h3>
+                        <h3 class="timeline-title">Seoul National University, GSCST, User Experience Lab</h3>
                         <p>서울대학교 융합과학기술대학원 사용자경험연구실</p>
                     </div>
                 </li>
@@ -327,7 +327,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">University of Applied Sciences Darmstadt</h3>
+                        <h3 class="timeline-title">University of Applied Sciences Darmstadt, Informatics</h3>
                         <p>한-EU ICI 교환학생 장학 프로그램</p>
                     </div>
                 </li>
@@ -337,7 +337,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Hanyang University, College of Engineering</h3>
+                        <h3 class="timeline-title">Hanyang University, College of Engineering, Information Systems Major</h3>
                         <p>한양대학교 공과대학 정보시스템학과</p>
                     </div>
                 </li>
@@ -347,7 +347,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Daejeon Foreign Language High School</h3>
+                        <h3 class="timeline-title">Daejeon Foreign Language High School, English Major</h3>
                         <p>대전외국어고등학교 영어과</p>
                     </div>
                 </li>
@@ -364,8 +364,8 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Graduate Research Assistant</h3>
-                        <p>Seoul National University, College of Liberal Studies, Creative Fusion Project</p>
-                        <p>서울대학교 자유전공학부 창의융합프로젝트 조교</p>
+                        <p>Seoul National University, College of Liberal Studies, Creative Fusion Project
+                        <br>서울대학교 자유전공학부 창의융합프로젝트 조교</p>
                     </div>
                 </li>
                 <li class="timeline-item">
@@ -375,8 +375,8 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Internship</h3>
-                        <p>서울시청 정보통신보안담당관 정보보안팀
-                        	<br>Seoul City Hall Information Protection Team</p>
+                        <p>Seoul City Hall Information Protection Team
+                        	<br>서울시청 정보통신보안담당관 정보보안팀</p>
                     </div>
                 </li>
             </ul>
