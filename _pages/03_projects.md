@@ -100,12 +100,12 @@ author_profile: true
 		    border-radius: 100%;
 		    content: "";
 		    display: block;
-		    height: 10px;
+		    height: 8px;
 		    position: absolute;
 		    top: 4px;
 		    left: 0;
-		    width: 10px;
-		    transition: background 0.3s ease-in-out, border 0.3s ease-in-out; }
+		    width: 8px;
+		    transition: background 0.2s ease-in-out, border 0.2s ease-in-out; }
 		  .timeline-marker:after {
 		    content: "";
 		    width: 3px;
