@@ -335,7 +335,7 @@ author_profile: true
                     <div class="timeline-content">
                         <h3 class="timeline-title"> Designing Home Entertainment AI Service Concept <br>공간 특화 Home Entertainment AI 컨셉 발굴</h3>
                         <p>- Project with <b>LG Electronics</b>
-                        <br><p>- My Role : Researcher</p>
+                        <br>- My Role : Researcher</p>
                         <!-- <p>Home Entertainment(HE) 기기 확산에 따른 새로운 카테고리의 서비스 및 폼팩터 발굴이 필요하다. 주거 공간마다 상이한 콘텐츠를 소비하는 사용자 행태에 맞게 공간 특화 서비스 제작이 필요한 것이다. 인공지능 서비스의 지향점은 Data Intelligence를 통한 예측력의 구축하는 것이다.</p> -->
                     </div>
                 </li>
