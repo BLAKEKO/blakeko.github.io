@@ -382,7 +382,6 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
             </ul>
         </div>
     	</div>
-    	<div class="row example-basic">
             <h1>AWARDS and HONORS</h1>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
             <ul class="timeline">
@@ -406,8 +405,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     </div>
                 </li>
             </ul>
-        </div>
-    	</div>
+        </div>   	
     </div>
  </div>
 </div>
