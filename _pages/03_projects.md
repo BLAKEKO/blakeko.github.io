@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "PUBLICATIONS"
+title: "PROJECTS"
 author_profile: true
 ---
 <html>
@@ -264,34 +264,6 @@ author_profile: true
             <ul class="timeline">
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>April 2020</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Do You Hear Me? Cues for Interactive Contents on Smart Speaker to Draw Attention</h3>
-                        <p><b>Byunghi Ko</b>, Yoojung Kim, Joongseek Lee</p>
-                        <p><i>EA of the SIGCHI Conference on Human Factors in Computing Systems (CHI’20). ACM. 2020.</i></p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>February 2020</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker?</h3>
-                        <p><b>Byunghi Ko</b>, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
-                        <p><i>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</i></p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    	</div>
-    	<h1>PROJECTS</h1>
-        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-            <ul class="timeline">
-                <li class="timeline-item">
-                    <div class="timeline-info">
                         <span>Jenuary 2019 ~ December 2019</span>
                     </div>
                     <div class="timeline-marker"></div>
@@ -340,6 +312,23 @@ author_profile: true
                     </div>
                 </li>
             </ul>
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+        	<h1>PUBLICATION</h1>
+            <ul class="timeline">
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>February 2020</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker?</h3>
+                        <p><b>Byunghi Ko</b>, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
+                        <p><i>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</i></p>
+                    </div>
+                </li>
+            </ul>
+        </div>
         </div>
     </div>
  </div>
