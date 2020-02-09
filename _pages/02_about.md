@@ -381,7 +381,33 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                 </li>
             </ul>
         </div>
-    </div>
+    	</div>
+    	<div class="row example-basic">
+            <h1>AWARDS and HONORS</h1>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+            <ul class="timeline">
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>2012 ~ 2017</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Hanyang Science and Technology Scholarship</h3>
+                        <p>한양 과학 기술 장학금</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>2016</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">EU ICI ECP Scholarship</h3>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    	</div>
     </div>
  </div>
 </div>
