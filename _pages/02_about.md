@@ -318,7 +318,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Seoul National University, GSCST, User Experience Lab</h3>
-                        <p>서울대학교 융합과학기술대학원 사용자경험연구실</p>
+                        <p>서울대학교 융합과학기술대학원 디지털정보융합전공 사용자경험연구실</p>
                     </div>
                 </li>
                 <li class="timeline-item">
@@ -328,7 +328,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">University of Applied Sciences Darmstadt, Informatics</h3>
-                        <p>한-EU ICI 교환학생 장학 프로그램</p>
+                        <p>한-EU ICI ECP(교육협력사업) 교환학생 장학 프로그램</p>
                     </div>
                 </li>
                 <li class="timeline-item">
