@@ -134,7 +134,7 @@ author:
       url: "https://github.com/blakeko"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/blakeko0316"
+      #url: "https://instagram.com/blakeko0316"
 
 # Site Footer
 footer:
@@ -156,7 +156,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/blakeko0316"
+      #url: "https://instagram.com/blakeko0316"
 
 
 # Reading Files
