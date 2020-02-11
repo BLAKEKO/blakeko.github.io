@@ -323,22 +323,22 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>August 2016 ~ Februrary 2017</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">University of Applied Sciences Darmstadt, Informatics</h3>
-                        <p>한-EU ICI ECP(교육협력사업) 교환학생 장학 프로그램</p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
                         <span>March 2012 ~ Februrary 2018</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Hanyang University, College of Engineering, Information Systems Major</h3>
                         <p>한양대학교 공과대학 정보시스템학과</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>August 2016 ~ Februrary 2017</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">University of Applied Sciences Darmstadt, Informatics</h3>
+                        <p>한-EU ICI ECP(교육협력사업) 교환학생 장학 프로그램</p>
                     </div>
                 </li>
                 <li class="timeline-item">
