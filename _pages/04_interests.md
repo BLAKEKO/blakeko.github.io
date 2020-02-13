@@ -5,13 +5,12 @@ title: "INTERESTS"
 author_profile: true
 ---
 
-<!DOCTYPE html>
 <html lang="en">
     <head>
 		<meta charset="UTF-8"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <title>Gamma Gallery - A Responsive Image Gallery Experiment</title>
+        <!-- <title>Gamma Gallery - A Responsive Image Gallery Experiment</title> -->
         <meta name="description" content="Gamma Gallery - A Responsive Image Gallery Experiment"/>
         <meta name="keywords" content="html5, responsive, image gallery, masonry, picture, images, sizes, fluid, history api, visibility api"/>
         <meta name="author" content="Codrops"/>
