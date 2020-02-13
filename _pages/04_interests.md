@@ -23,7 +23,7 @@ author_profile: true
     <body>
         <div class="container">		
 			<!-- Codrops top bar -->
-            <div class="codrops-top clearfix">
+            <!-- <div class="codrops-top clearfix">
                 <a href="http://tympanus.net/Tutorials/HeadingSets/">
                     <strong>&laquo; Previous Demo: </strong>Heading Set Styling
                 </a>
@@ -33,7 +33,7 @@ author_profile: true
                         <strong>Back to the Codrops Article</strong>
                     </a>
                 </span>
-            </div><!--/ Codrops top bar -->		
+            </div> --><!--/ Codrops top bar -->		
 			<div class="main">
 				<header class="clearfix">				
 					<h1>Gamma Gallery<span>A responsive image gallery experiment</span></h1>
