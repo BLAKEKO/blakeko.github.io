@@ -4,193 +4,393 @@ permalink: /interests/
 title: "INTERESTS"
 author_profile: true
 ---
+
+<!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>jQuery lightGallery demo</title>
-        <link href="/SRC2/lightgallery/dist/css/lightgallery.css" rel="stylesheet">
-        <style type="text/css">
-            body{
-                background-color: #152836
-            }
-            .demo-gallery > ul {
-              margin-bottom: 0;
-            }
-            .demo-gallery > ul > li {
-                float: left;
-                margin-bottom: 15px;
-                margin-right: 20px;
-                width: 200px;
-            }
-            .demo-gallery > ul > li a {
-              border: 3px solid #FFF;
-              border-radius: 3px;
-              display: block;
-              overflow: hidden;
-              position: relative;
-              float: left;
-            }
-            .demo-gallery > ul > li a > img {
-              -webkit-transition: -webkit-transform 0.15s ease 0s;
-              -moz-transition: -moz-transform 0.15s ease 0s;
-              -o-transition: -o-transform 0.15s ease 0s;
-              transition: transform 0.15s ease 0s;
-              -webkit-transform: scale3d(1, 1, 1);
-              transform: scale3d(1, 1, 1);
-              height: 100%;
-              width: 100%;
-            }
-            .demo-gallery > ul > li a:hover > img {
-              -webkit-transform: scale3d(1.1, 1.1, 1.1);
-              transform: scale3d(1.1, 1.1, 1.1);
-            }
-            .demo-gallery > ul > li a:hover .demo-gallery-poster > img {
-              opacity: 1;
-            }
-            .demo-gallery > ul > li a .demo-gallery-poster {
-              background-color: rgba(0, 0, 0, 0.1);
-              bottom: 0;
-              left: 0;
-              position: absolute;
-              right: 0;
-              top: 0;
-              -webkit-transition: background-color 0.15s ease 0s;
-              -o-transition: background-color 0.15s ease 0s;
-              transition: background-color 0.15s ease 0s;
-            }
-            .demo-gallery > ul > li a .demo-gallery-poster > img {
-              left: 50%;
-              margin-left: -10px;
-              margin-top: -10px;
-              opacity: 0;
-              position: absolute;
-              top: 50%;
-              -webkit-transition: opacity 0.3s ease 0s;
-              -o-transition: opacity 0.3s ease 0s;
-              transition: opacity 0.3s ease 0s;
-            }
-            .demo-gallery > ul > li a:hover .demo-gallery-poster {
-              background-color: rgba(0, 0, 0, 0.5);
-            }
-            .demo-gallery .justified-gallery > a > img {
-              -webkit-transition: -webkit-transform 0.15s ease 0s;
-              -moz-transition: -moz-transform 0.15s ease 0s;
-              -o-transition: -o-transform 0.15s ease 0s;
-              transition: transform 0.15s ease 0s;
-              -webkit-transform: scale3d(1, 1, 1);
-              transform: scale3d(1, 1, 1);
-              height: 100%;
-              width: 100%;
-            }
-            .demo-gallery .justified-gallery > a:hover > img {
-              -webkit-transform: scale3d(1.1, 1.1, 1.1);
-              transform: scale3d(1.1, 1.1, 1.1);
-            }
-            .demo-gallery .justified-gallery > a:hover .demo-gallery-poster > img {
-              opacity: 1;
-            }
-            .demo-gallery .justified-gallery > a .demo-gallery-poster {
-              background-color: rgba(0, 0, 0, 0.1);
-              bottom: 0;
-              left: 0;
-              position: absolute;
-              right: 0;
-              top: 0;
-              -webkit-transition: background-color 0.15s ease 0s;
-              -o-transition: background-color 0.15s ease 0s;
-              transition: background-color 0.15s ease 0s;
-            }
-            .demo-gallery .justified-gallery > a .demo-gallery-poster > img {
-              left: 50%;
-              margin-left: -10px;
-              margin-top: -10px;
-              opacity: 0;
-              position: absolute;
-              top: 50%;
-              -webkit-transition: opacity 0.3s ease 0s;
-              -o-transition: opacity 0.3s ease 0s;
-              transition: opacity 0.3s ease 0s;
-            }
-            .demo-gallery .justified-gallery > a:hover .demo-gallery-poster {
-              background-color: rgba(0, 0, 0, 0.5);
-            }
-            .demo-gallery .video .demo-gallery-poster img {
-              height: 48px;
-              margin-left: -24px;
-              margin-top: -24px;
-              opacity: 0.8;
-              width: 48px;
-            }
-            .demo-gallery.dark > ul > li a {
-              border: 3px solid #04070a;
-            }
-            .home .demo-gallery {
-              padding-bottom: 80px;
-            }
-        </style>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <title>Gamma Gallery - A Responsive Image Gallery Experiment</title>
+        <meta name="description" content="Gamma Gallery - A Responsive Image Gallery Experiment"/>
+        <meta name="keywords" content="html5, responsive, image gallery, masonry, picture, images, sizes, fluid, history api, visibility api"/>
+        <meta name="author" content="Codrops"/>
+        <link rel="shortcut icon" href="../favicon.ico"> 
+        <link rel="stylesheet" type="text/css" href="css/style.css"/>
+		<script src="js/modernizr.custom.70736.js"></script>
+		<noscript><link rel="stylesheet" type="text/css" href="css/noJS.css"/></noscript>
+		<!--[if lte IE 7]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
     </head>
-    <body class="home">
-        <div class="demo-gallery">
-            <ul id="lightgallery" class="list-unstyled row">
-                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="/SRC2/lightgallery/demo/img/1-375.jpg 375, /SRC2/lightgallery/demo/img/1-480.jpg 480, /SRC2/lightgallery/demo/img/1.jpg 800" data-src="/SRC2/lightgallery/demo/img/1-1600.jpg" data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>">
-                    <a href="">
-                        <img class="img-responsive" src="/SRC2/lightgallery/demo/img/thumb-1.jpg">
+    <body>
+        <div class="container">		
+			<!-- Codrops top bar -->
+            <div class="codrops-top clearfix">
+                <a href="http://tympanus.net/Tutorials/HeadingSets/">
+                    <strong>&laquo; Previous Demo: </strong>Heading Set Styling
+                </a>
+                <span class="right">
+                	<a href="http://www.idleformat.com/">Images by Idleformat</a>
+                    <a href="http://tympanus.net/codrops/?p=11836">
+                        <strong>Back to the Codrops Article</strong>
                     </a>
-                </li>
-                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="/SRC2/lightgallery/demo/img/2-375.jpg 375, /SRC2/lightgallery/demo/img/2-480.jpg 480, /SRC2/lightgallery/demo/img/2.jpg 800" data-src="/SRC2/lightgallery/demo/img/2-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
-                    <a href="">
-                        <img class="img-responsive" src="/SRC2/lightgallery/demo/img/thumb-2.jpg">
-                    </a>
-                </li>
-                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="/SRC2/lightgallery/demo/img/1-375.jpg 375, /SRC2/lightgallery/demo/img/1-480.jpg 480, /SRC2/lightgallery/demo/img/1.jpg 800" data-src="/SRC2/lightgallery/demo/img/1-1600.jpg" data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>">
-                    <a href="">
-                        <img class="img-responsive" src="/SRC2/lightgallery/demo/img/thumb-1.jpg">
-                    </a>
-                </li>
-                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="/SRC2/lightgallery/demo/img/2-375.jpg 375, /SRC2/lightgallery/demo/img/2-480.jpg 480, /SRC2/lightgallery/demo/img/2.jpg 800" data-src="/SRC2/lightgallery/demo/img/2-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
-                    <a href="">
-                        <img class="img-responsive" src="/SRC2/lightgallery/demo/img/thumb-2.jpg">
-                    </a>
-                </li>
-                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="/SRC2/lightgallery/demo/img/1-375.jpg 375, /SRC2/lightgallery/demo/img/1-480.jpg 480, /SRC2/lightgallery/demo/img/1.jpg 800" data-src="/SRC2/lightgallery/demo/img/1-1600.jpg" data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>">
-                    <a href="">
-                        <img class="img-responsive" src="/SRC2/lightgallery/demo/img/thumb-1.jpg">
-                    </a>
-                </li>
-                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="/SRC2/lightgallery/demo/img/2-375.jpg 375, /SRC2/lightgallery/demo/img/2-480.jpg 480, /SRC2/lightgallery/demo/img/2.jpg 800" data-src="/SRC2/lightgallery/demo/img/2-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
-                    <a href="">
-                        <img class="img-responsive" src="/SRC2/lightgallery/demo/img/thumb-2.jpg">
-                    </a>
-                </li>
-                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="/SRC2/lightgallery/demo/img/1-375.jpg 375, /SRC2/lightgallery/demo/img/1-480.jpg 480, /SRC2/lightgallery/demo/img/1.jpg 800" data-src="/SRC2/lightgallery/demo/img/1-1600.jpg" data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>">
-                    <a href="">
-                        <img class="img-responsive" src="/SRC2/lightgallery/demo/img/thumb-1.jpg">
-                    </a>
-                </li>
-                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="/SRC2/lightgallery/demo/img/2-375.jpg 375, /SRC2/lightgallery/demo/img/2-480.jpg 480, /SRC2/lightgallery/demo/img/2.jpg 800" data-src="/SRC2/lightgallery/demo/img/2-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
-                    <a href="">
-                        <img class="img-responsive" src="/SRC2/lightgallery/demo/img/thumb-2.jpg">
-                    </a>
-                </li>
-            </ul>
-        </div>
-        <script type="text/javascript">
-        $(document).ready(function(){
-            $('#lightgallery').lightGallery();
-        });
-        </script>
-        <script src="/SRC2/lightgallery/lib/picturefill.min.js"></script>
-        <script src="/SRC2/lightgallery/dist/js/lightgallery.js"></script>
-        <script src="/SRC2/lightgallery/dist/js/lg-fullscreen.js"></script>
-        <script src="/SRC2/lightgallery/dist/js/lg-thumbnail.js"></script>
-        <script src="/SRC2/lightgallery/dist/js/lg-video.js"></script>
-        <script src="/SRC2/lightgallery/dist/js/lg-autoplay.js"></script>
-        <script src="/SRC2/lightgallery/dist/js/lg-zoom.js"></script>
-        <script src="/SRC2/lightgallery/dist/js/lg-hash.js"></script>
-        <script src="/SRC2/lightgallery/dist/js/lg-pager.js"></script>
-        <script src="/SRC2/lightgallery/lib/jquery.mousewheel.min.js"></script>
-    </body>
+                </span>
+            </div><!--/ Codrops top bar -->		
+			<div class="main">
+				<header class="clearfix">				
+					<h1>Gamma Gallery<span>A responsive image gallery experiment</span></h1>
+					<div class="support-note">
+						<span class="note-ie">Sorry, only modern browsers.</span>
+					</div>					
+				</header>		
+				<div class="gamma-container gamma-loading" id="gamma-container">
+					<ul class="gamma-gallery">
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
+								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
+								<div data-src="images/large/3.jpg" data-min-width="300"></div>
+								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
+								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="images/xsmall/3.jpg"></div>
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+					</ul>
+					<div class="gamma-overlay"></div>
+					<div id="loadmore" class="loadmore">Example for loading more items...</div>
+				</div>
+			</div><!--/main-->
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="js/jquery.masonry.min.js"></script>
+		<script src="js/jquery.history.js"></script>
+		<script src="js/js-url.min.js"></script>
+		<script src="js/jquerypp.custom.js"></script>
+		<script src="js/gamma.js"></script>
+		<script type="text/javascript">
+			
+			$(function() {
+
+				var GammaSettings = {
+						// order is important!
+						viewport : [ {
+							width : 1200,
+							columns : 5
+						}, {
+							width : 900,
+							columns : 4
+						}, {
+							width : 500,
+							columns : 3
+						}, { 
+							width : 320,
+							columns : 2
+						}, { 
+							width : 0,
+							columns : 2
+						} ]
+				};
+				Gamma.init( GammaSettings, fncallback );
+				// Example how to add more items (just a dummy):
+				var page = 0,
+					items = ['<li><div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350"><div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div><div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div><div data-src="images/xlarge/3.jpg" data-min-width="700"></div><div data-src="images/large/3.jpg" data-min-width="300"></div><div data-src="images/medium/3.jpg" data-min-width="200"></div><div data-src="images/small/3.jpg" data-min-width="140"></div><div data-src="images/xsmall/3.jpg"></div><noscript><img src="images/xsmall/3.jpg" alt="img03"/></noscript></div></li><li><div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350"><div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div><div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div><div data-src="images/xlarge/3.jpg" data-min-width="700"></div><div data-src="images/large/3.jpg" data-min-width="300"></div><div data-src="images/medium/3.jpg" data-min-width="200"></div><div data-src="images/small/3.jpg" data-min-width="140"></div><div data-src="images/xsmall/3.jpg"></div><noscript><img src="images/xsmall/3.jpg" alt="img03"/></noscript></div></li><li><div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350"><div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div><div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div><div data-src="images/xlarge/3.jpg" data-min-width="700"></div><div data-src="images/large/3.jpg" data-min-width="300"></div><div data-src="images/medium/3.jpg" data-min-width="200"></div><div data-src="images/small/3.jpg" data-min-width="140"></div><div data-src="images/xsmall/3.jpg"></div><noscript><img src="images/xsmall/3.jpg" alt="img03"/></noscript></div></li><li><div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350"><div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div><div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div><div data-src="images/xlarge/3.jpg" data-min-width="700"></div><div data-src="images/large/3.jpg" data-min-width="300"></div><div data-src="images/medium/3.jpg" data-min-width="200"></div><div data-src="images/small/3.jpg" data-min-width="140"></div><div data-src="images/xsmall/3.jpg"></div><noscript><img src="images/xsmall/3.jpg" alt="img03"/></noscript></div></li><li><div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350"><div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div><div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div><div data-src="images/xlarge/3.jpg" data-min-width="700"></div><div data-src="images/large/3.jpg" data-min-width="300"></div><div data-src="images/medium/3.jpg" data-min-width="200"></div><div data-src="images/small/3.jpg" data-min-width="140"></div><div data-src="images/xsmall/3.jpg"></div><noscript><img src="images/xsmall/3.jpg" alt="img03"/></noscript></div></li>']
+
+				function fncallback() {
+
+					$( '#loadmore' ).show().on( 'click', function() {
+
+						++page;
+						var newitems = items[page-1]
+						if( page <= 1 ) {
+							
+							Gamma.add( $( newitems ) );
+
+						}
+						if( page === 1 ) {
+
+							$( this ).remove();
+
+						}
+
+					} );
+
+				}
+
+			});
+
+		</script>	
+	</body>
 </html>
+
 
 
 
