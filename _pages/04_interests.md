@@ -36,10 +36,7 @@ author_profile: true
             </div> --><!--/ Codrops top bar -->		
 			<div class="main">
 				<header class="clearfix">				
-					<h1>Gamma Gallery<span>A responsive image gallery experiment</span></h1>
-					<div class="support-note">
-						<span class="note-ie">Sorry, only modern browsers.</span>
-					</div>					
+					<h1>Test</h1>				
 				</header>		
 				<div class="gamma-container gamma-loading" id="gamma-container">
 					<ul class="gamma-gallery">
