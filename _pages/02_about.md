@@ -58,7 +58,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
 
 	body {
 	  color: #768390;
-	  background: #FFF;
+	  /*background: #FFF;*/
 	  font-family: "Effra", Helvetica, sans-serif;
 	  padding: 0;
 	  -webkit-font-smoothing: antialiased; }
@@ -74,7 +74,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
 	    text-decoration: none; }
 
 	.example-header {
-	  background: #3D4351;
+	  /*background: #3D4351;*/
 	  color: #FFF;
 	  font-weight: 300;
 	  padding: 3em 1em;
@@ -92,7 +92,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
 	.container-fluid .row {
 	  padding: 0 0 4em 0; }
 	  .container-fluid .row:nth-child(even) {
-	    background: #F1F4F5; }
+	    /*background: #F1F4F5;*/ }
 
 	.example-title {
 	  text-align: center;
@@ -142,7 +142,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
 	  left: 0;
 	  width: 15px; }
 	  .timeline-marker:before {
-	    background: #FF6B6B;
+	    /*background: #FF6B6B;*/
 	    border: 3px solid transparent;
 	    border-radius: 100%;
 	    content: "";
@@ -156,7 +156,7 @@ I am studying for a Master's degree in **the Graduate School of Convergence Scie
 	  .timeline-marker:after {
 	    content: "";
 	    width: 3px;
-	    background: #CCD5DB;
+	    /*background: #CCD5DB;*/
 	    display: block;
 	    position: absolute;
 	    top: 24px;
