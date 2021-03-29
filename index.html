@@ -3,3 +3,328 @@ layout: home
 author_profile: true
 ---
 
+---
+layout: archive
+---
+
+{{ content }}
+
+<h1> I’m Blake Ko,<br> a UX/HCI researcher.</h1>
+<article class="main description">
+	<blockquote>
+    <p>Your reputation is what others think of you; your character is what you truly are. Reputations can be manipulated; character can only be developed and maintained.</p>
+    <footer>Bohdi Sanders, Men of the Code: Living as a Superior Man</footer>
+	</blockquote>
+</article>
+<br><br>
+
+<div class="type-info">
+	<h1>PERSONALITY</h1>
+    <h3><span>Campaigner 재기발랄한 활동가 (ENFP) </span> </h3> 
+</div>
+<article class="main description">
+	<blockquote>
+    <p>It doesn’t interest me what you do for a living. I want to know what you ache for – and if you dare to dream of meeting your heart’s longing. It doesn’t interest me how old you are. I want to know if you will risk looking like a fool – for love – for your dreams – for the adventure of being alive.</p>
+    <p>당신이 생계를 위해 무슨 일을 하는지, 저는 관심 없습니다. 다만 제가 알고 싶은 건 당신이 가슴 저리게 동경하는 것이 있는지, 당신 마음속 깊은 바람을 감히 충족시키고자 하는 열망이 있는지입니다. 당신의 나이가 얼마인지는 중요하지 않습니다. 당신이 사랑을 위해, 당신의 꿈을 위해, 그리고 삶이라는 모험을 위해 기꺼이 바보가 될 준비가 되어 있는지, 그것이 궁금할 뿐입니다.</p>
+    <footer>Oriah Mountain Dreamer</footer>
+	</blockquote>
+</article>
+<br>
+<div class="col">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+<div class="row">
+<h1><span data-i18n="skills.my_skills">SKILLS</span></h1>
+<canvas id="cs" height="100" width="100"></canvas>    
+<script>
+    var ctx = document.getElementById("cs");
+    var data = {
+    labels: "Collaboration, Data Analysis, Python, HTML/CSS, PM".split(","),
+    datasets: [{
+        label: "Ability",
+        backgroundColor: "rgba(179,181,198,0.2)",
+        borderColor: "#FF6B6B",
+        pointBackgroundColor: "#FF6B6B",
+        pointBorderColor: "#fff",
+        pointHoverBackgroundColor: "#FF6B6B",
+        pointHoverBorderColor: "#FF6B6B",
+        data: [95, 70, 70, 80, 80]
+        }]
+    };
+    var myRadarChart = new Chart(ctx, {
+    type: 'radar',
+    data: data,
+    options: {
+        scale: {
+            responsive: true,
+            ticks: {min: 0, max: 100},
+            lineArc: false,
+            pointLabels: {fontSize: 11},
+        },
+        scaleFontSize: 0,
+        legend: {display: false},
+    }
+    });
+</script>
+</div>
+</div>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+
+	body {
+	  color: #768390;
+	  background: #FFF;
+	  font-family: "Effra", Helvetica, sans-serif;
+	  padding: 0;
+	  -webkit-font-smoothing: antialiased; }
+
+	h1, h2, h3, h4, h5, h6 {
+	  color: #3D4351;
+	  margin-top: 0; }
+
+	a {
+	  color: #FF6B6B; }
+	  a:hover {
+	    color: #ff9a9a;
+	    text-decoration: none; }
+
+	.example-header {
+	  background: #3D4351;
+	  color: #FFF;
+	  font-weight: 300;
+	  padding: 3em 1em;
+	  text-align: center; }
+	  .example-header h1 {
+	    color: #FFF;
+	    font-weight: 300;
+	    margin-bottom: 20px; }
+	  .example-header p {
+	    font-size: 12px;
+	    text-transform: uppercase;
+	    letter-spacing: 3px;
+	    font-weight: 700; }
+
+	.container-fluid .row {
+	  padding: 0 0 4em 0; }
+	  .container-fluid .row:nth-child(even) {
+	    background: #F1F4F5; }
+
+	.example-title {
+	  text-align: center;
+	  margin-bottom: 60px;
+	  padding: 3em 0;
+	  border-bottom: 1px solid #E4EAEC; }
+	  .example-title p {
+	    margin: 0 auto;
+	    font-size: 16px;
+	    max-width: 400px; }
+
+	/*==================================
+	    TIMELINE
+	==================================*/
+	/*-- GENERAL STYLES
+	    ------------------------------*/
+	.timeline {
+	  line-height: 1.5em;
+	  list-style: none;
+	  margin: 0;
+	  padding: 0;
+	  width: 100%; }
+	  .timeline h1, .timeline h2, .timeline h3, .timeline h4, .timeline h5, .timeline h6 {
+	    line-height: inherit; }
+
+	/*----- TIMELINE ITEM -----*/
+	.timeline-item {
+	  padding-left: 30px;
+	  position: relative; }
+	  .timeline-item:last-child {
+	    padding-bottom: 0; }
+
+	/*----- TIMELINE INFO -----*/
+	.timeline-info {
+	  font-size: 12px;
+	  font-weight: 700;
+	  letter-spacing: 3px;
+	  margin: 0 0 .5em 0;
+	  text-transform: uppercase;
+	  white-space: nowrap; }
+
+	/*----- TIMELINE MARKER -----*/
+	.timeline-marker {
+	  position: absolute;
+	  top: 0;
+	  bottom: 0;
+	  left: 0;
+	  width: 15px; }
+	  .timeline-marker:before {
+	    background: #FF6B6B;
+	    border: 3px solid transparent;
+	    border-radius: 100%;
+	    content: "";
+	    display: block;
+	    height: 10px;
+	    position: absolute;
+	    top: 4px;
+	    left: 0;
+	    width: 10px;
+	    transition: background 0.3s ease-in-out, border 0.3s ease-in-out; }
+	  .timeline-marker:after {
+	    content: "";
+	    width: 3px;
+	    background: #CCD5DB;
+	    display: block;
+	    position: absolute;
+	    top: 24px;
+	    bottom: 0;
+	    left: 6px; }
+	  .timeline-item:last-child .timeline-marker:after {
+	    content: none; }
+
+	.timeline-item:not(.period):hover .timeline-marker:before {
+	  background: transparent;
+	  border: 3px solid #FF6B6B; }
+
+	/*----- TIMELINE CONTENT -----*/
+	.timeline-content {
+	  padding-bottom: 40px; }
+	  .timeline-content p:last-child {
+	    margin-bottom: 0; }
+
+	/*----- TIMELINE PERIOD -----*/
+	.period {
+	  padding: 0; }
+	  .period .timeline-info {
+	    display: none; }
+	  .period .timeline-marker:before {
+	    background: transparent;
+	    content: "";
+	    width: 15px;
+	    height: auto;
+	    border: none;
+	    border-radius: 0;
+	    top: 0;
+	    bottom: 30px;
+	    position: absolute;
+	    border-top: 3px solid #CCD5DB;
+	    border-bottom: 3px solid #CCD5DB; }
+	  .period .timeline-marker:after {
+	    content: "";
+	    height: 32px;
+	    top: auto; }
+	  .period .timeline-content {
+	    padding: 40px 0 70px; }
+	  .period .timeline-title {
+	    margin: 0; }
+
+	/*----------------------------------------------
+	        MOD: TIMELINE SPLIT
+	    ----------------------------------------------*/
+	@media (min-width: 768px) {
+	  .timeline-split .timeline, .timeline-centered .timeline {
+	    display: table; }
+	  .timeline-split .timeline-item, .timeline-centered .timeline-item {
+	    display: table-row;
+	    padding: 0; }
+	  .timeline-split .timeline-info, .timeline-centered .timeline-info,
+	  .timeline-split .timeline-marker,
+	  .timeline-centered .timeline-marker,
+	  .timeline-split .timeline-content,
+	  .timeline-centered .timeline-content,
+	  .timeline-split .period .timeline-info,
+	  .timeline-centered .period .timeline-info {
+	    display: table-cell;
+	    vertical-align: top; }
+	  
+	  .timeline-split .timeline-marker,
+	  .timeline-centered .timeline-marker {
+	    position: relative; }
+	  
+	  .timeline-split .timeline-content,
+	  .timeline-centered .timeline-content {
+	    padding-left: 30px; }
+	  .timeline-split .timeline-info, .timeline-centered .timeline-info {
+	    padding-right: 30px; }
+	  .timeline-split .period .timeline-title, .timeline-centered .period .timeline-title {
+	    position: relative;
+	    left: -45px; } }
+
+	/*----------------------------------------------
+	        MOD: TIMELINE CENTERED
+	    ----------------------------------------------*/
+	@media (min-width: 992px) {
+	  .timeline-centered,
+	  .timeline-centered .timeline-item,
+	  .timeline-centered .timeline-info,
+	  .timeline-centered .timeline-marker,
+	  .timeline-centered .timeline-content {
+	    display: block;
+	    margin: 0;
+	    padding: 0; }
+	  .timeline-centered .timeline-item {
+	    padding-bottom: 40px;
+	    overflow: hidden; }
+	  .timeline-centered .timeline-marker {
+	    position: absolute;
+	    left: 50%;
+	    margin-left: -7.5px; }
+	  .timeline-centered .timeline-info,
+	  .timeline-centered .timeline-content {
+	    width: 50%; }
+	  .timeline-centered > .timeline-item:nth-child(odd) .timeline-info {
+	    float: left;
+	    text-align: right;
+	    padding-right: 30px; }
+	  .timeline-centered > .timeline-item:nth-child(odd) .timeline-content {
+	    float: right;
+	    text-align: left;
+	    padding-left: 30px; }
+	  .timeline-centered > .timeline-item:nth-child(even) .timeline-info {
+	    float: right;
+	    text-align: left;
+	    padding-left: 30px; }
+	  .timeline-centered > .timeline-item:nth-child(even) .timeline-content {
+	    float: left;
+	    text-align: right;
+	    padding-right: 30px; }
+	  .timeline-centered > .timeline-item.period .timeline-content {
+	    float: none;
+	    padding: 0;
+	    width: 100%;
+	    text-align: center; }
+	  .timeline-centered .timeline-item.period {
+	    padding: 50px 0 90px; }
+	  .timeline-centered .period .timeline-marker:after {
+	    height: 30px;
+	    bottom: 0;
+	    top: auto; }
+	  .timeline-centered .period .timeline-title {
+	    left: auto; } }
+
+	/*----------------------------------------------
+	        MOD: MARKER OUTLINE
+	    ----------------------------------------------*/
+	.marker-outline .timeline-marker:before {
+	  background: transparent;
+	  border-color: #FF6B6B; }
+
+	.marker-outline .timeline-item:hover .timeline-marker:before {
+	  background: #FF6B6B; }
+
+
+	</style>
+</head>
+
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
