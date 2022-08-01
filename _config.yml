@@ -107,6 +107,13 @@ analytics:
   google:
     tracking_id          : UA-158097378-1
     anonymize_ip         : # true, false (default)
+    
+#
+google_tag:          
+  ua: GTM-P74BXGG
+  gtag_head : 'GTM-P74BXGG' => '{{ site.google_tag.ua }}' 
+  gtag_body : /ns.html?id=GTM-P74BXGG   => /ns.html?id={{ site.google_tag.ua }} 
+  
 
 
 # Site Author
